@@ -16,7 +16,7 @@ namespace CFBPredictor.Service
     public static class WeekSimulator
     {
         private static List<Game> Week = new List<Game>();
-        private static string scoresPath = "C:/Users/Danny/GitHub/CollegeFootballRanker/CFBpredictor/scores/";
+        private static string scoresPath = "C:/Users/Danny/GitHub/CFB_Ranker/CFBPredictor/scores/";
         private static string excelPath = "C:/Users/Danny/Documents/";
 
         /// <summary>

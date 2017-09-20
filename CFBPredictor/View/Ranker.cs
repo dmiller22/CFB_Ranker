@@ -18,7 +18,7 @@ namespace CFBPredictor
         List<Team> SOS = new List<Team>();
         
         List<Team> DivisionI = new List<Team>();
-        private const string SCORES_PATH = "C:/Users/Danny/GitHub/CollegeFootballRanker/CFBpredictor/scores/";
+        private const string SCORES_PATH = "C:/Users/Danny/GitHub/CFB_Ranker/CFBPredictor/scores/";
         private const string EXCEL_PATH = "C:/Users/Danny/Documents/";
         private int weeksAdded; //Keeps track of how many weeks have been added to prevent duplicate score additions        
 
@@ -610,7 +610,7 @@ namespace CFBPredictor
             }
 
             WeekSimulator.SimWeek(ncaa, week);
-            WeekSimulator.WriteSimmedScores(ncaa, Convert.ToInt16(week) - 1);
+            WeekSimulator.WriteSimmedScores(ncaa, Convert.ToInt16(week));
         }
 
         private void uxSubmit_Click(object sender, EventArgs e)

@@ -23,7 +23,7 @@ namespace CFBPredictor.Service
     {
         private NCAA ncaa;
         private string year;
-        private string scoresPath = "C:/Users/Danny/GitHub/CollegeFootballRanker/CFBpredictor/scores/";
+        private string scoresPath = "C:/Users/Danny/GitHub/CFB_Ranker/CFBPredictor/scores/";
         private string excelPath = "C:/Users/Danny/Documents/";
         private string auth = "C:/Users/resources/auth.txt";
         private static string[] scopes = { DriveService.Scope.Drive };
