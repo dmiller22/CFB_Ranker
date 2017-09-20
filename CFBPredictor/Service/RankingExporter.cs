@@ -227,11 +227,11 @@ namespace CFBPredictor.Service
                 string folderId;
                 if (fileName == "Rankings")
                 {
-                    folderId = "0B6PEje_okeyZenFIRjM1VEZiejQ";
+                    folderId = "0B6PEje_okeyZbVprVE55NXAzN1k";
                 }
                 else
                 {
-                    folderId = "0B6PEje_okeyZbGFlVTU4YjJNMkU";
+                    folderId = "0B6PEje_okeyZTjFFalQ3THN1bkE";
                 }
                 Google.Apis.Drive.v3.Data.File driveRanking = new Google.Apis.Drive.v3.Data.File();
                 driveRanking.Name = fileName + "(" + DateTime.Today.ToString("d") + ")";
