@@ -1,0 +1,335 @@
+Oregon State-27-Colorado State-58
+Portland State-6-BYU-20
+Hawaii-38-UMass-35
+South Florida-42-San Jose State-22
+Stanford-62-Rice-7
+Florida International-17-Central Florida-61
+Presbyterian-7-Wake Forest-51
+Rhode Island-27-Central Michigan-30
+Austin Peay-14-Cincinnati-26
+Tennessee State-17-Georgia State-10
+Buffalo-7-Minnesota-17
+Elon-13-Toledo-47
+Holy Cross-20-Connecticut-27
+Tulsa-24-Oklahoma State-59
+North Dakota-16-Utah-37
+Florida A&M-7-Arkansas-49
+Ohio State-49-Indiana-21
+Sacramento State-6-Idaho-28
+Louisiana Monroe-29-Memphis-37
+New Mexico State-31-Arizona State-37
+Fordham-6-Army-64
+Charlotte-7-Eastern Michigan-24
+Central Connecticut-7-Syracuse-50
+Colorado State-3-Colorado-17
+Navy-42-Florida Atlantic-19
+Washington-30-Rutgers-14
+Utah State-10-Wisconsin-59
+Boston College-23-Northern Illinois-20
+Kent State-3-Clemson-56
+Ball State-21-Illinois-24
+Wyoming-3-Iowa-24
+Bowling Green-10-Michigan State-35
+Missouri State-43-Missouri-72
+Akron-0-Penn State-52
+Maryland-51-Texas-41
+California-35-North Carolina-30
+Bethune Cookman-13-Miami(FL)-41
+Youngstown State-21-Pittsburgh-28
+Portland State-32-Oregon State-35
+Virginia Military-0-Air Force-62
+NC State-28-South Carolina-35
+Nevada-20-Northwestern-31
+Temple-16-Notre Dame-49
+UTEP-7-Oklahoma-56
+Alabama A&M-7-UAB-38
+William & Mary-10-Virginia-28
+Michigan-33-Florida-17
+Troy-13-Boise State-24
+Charleston Southern-0-Mississippi State-49
+Stony Brook-17-South Florida-31
+Kentucky-24-Southern Miss-17
+Eastern Washington-10-Texas Tech-56
+Western Michigan-31-USC-49
+NC Central-7-Duke-60
+James Madison-34-East Carolina-14
+Albany-17-Old Dominion-31
+Appalachian State-10-Georgia-31
+Miami(OH)-26-Marshall-31
+Liberty-48-Baylor-45
+UMass-28-Coastal Carolina-38
+Southeast Missouri State-16-Kansas-38
+Southeastern Louisiana-48-Louisiana Lafayette-51
+Northwestern State-24-Louisiana Tech-52
+Lamar-14-North Texas-59
+Hampton-0-Ohio-59
+Stephen F. Austin-14-SMU-58
+Houston Baptist-11-Texas State-20
+Eastern Kentucky-17-Western Kentucky-31
+Central Arkansas-19-Kansas State-55
+Georgia Southern-7-Auburn-41
+South Alabama-27-Ole Miss-47
+Cal Poly-13-San Jose State-34
+Louisville-35-Purdue-28
+Northern Iowa-24-Iowa State-42
+Vanderbilt-28-Middle Tennessee State-6
+Arkansas State-36-Nebraska-43
+Abilene Christian-14-New Mexico-38
+Jackson State-0-TCU-63
+Grambling State-14-Tulane-43
+Florida State-7-Alabama-24
+Southern Utah-21-Oregon-77
+UC Davis-17-San Diego State-38
+Howard-43-UNLV-40
+BYU-0-LSU-27
+Incarnate Word-0-Fresno State-66
+Montana State-0-Washington State-31
+Northern Arizona-24-Arizona-62
+Texas A&M-44-UCLA-45
+West Virginia-24-Virginia Tech-31
+Tennessee-42-Georgia Tech-41
+Texas Southern-7-Florida A&M-29
+Chattanooga-13-Jacksonville State-27
+Colgate-20-Cal Poly-14
+Richmond-8-Sam Houston State-4
+Delaware State-3-Delaware-22
+Eastern Illinois-22-Indiana State-20
+Jacksonville-7-Mercer-48
+Maine-23-New Hampshire-24
+Kennesaw State-23-Samford-28
+Western Illinois-41-Tennessee Tech-14
+McNeese State-35-Nicholls State-37
+Duquesne-13-South Dakota State-51
+Richmond-34-Sam Houston State-48
+Dayton-10-Robert Morris-13
+Villanova-38-Lehigh-35
+Lafayette-12-Monmouth-31
+Valparaiso-23-Montana-45
+Mississippi Valley State-7-North Dakota State-72
+Marist-6-Bucknell-45
+North Carolina A&T-45-Gardner Webb-3
+Stetson-3-Sacred Heart-42
+Morgan State-0-Towson-10
+Furman-23-Wofford-24
+South Dakota-77-Drake-7
+Butler-0-Illinois State-45
+South Carolina State-8-Southern-14
+Idaho State-13-Utah State-51
+Alcorn State-10-Florida International-17
+Ohio-21-Purdue-44
+Oklahoma State-44-South Alabama-7
+Buffalo-17-Army-21
+Northwestern-17-Duke-41
+Iowa-44-Iowa State-41
+Charlotte-7-Kansas State-55
+Eastern Kentucky-16-Kentucky-27
+Towson-17-Maryland-63
+Cincinnati-14-Michigan-36
+Tennessee Martin-23-Ole Miss-45
+East Carolina-20-West Virginia-56
+Florida Atlantic-14-Wisconsin-31
+Louisville-47-North Carolina-35
+Jacksonville State-10-Georgia Tech-37
+Wake Forest-34-Boston College-10
+Texas State-3-Colorado-37
+UAB-31-Ball State-51
+Fresno State-10-Alabama-41
+Savannah State-7-Appalachian State-54
+Abilene Christian-10-Colorado State-38
+Howard-31-Kent State-38
+Old Dominion-17-UMass-7
+Austin Peay-10-Miami(OH)-31
+Western Michigan-14-Michigan State-28
+Tulane-21-Navy-23
+Eastern Illinois-10-Northern Illinois-38
+Pittsburgh-14-Penn State-33
+Eastern Michigan-16-Rutgers-13
+Middle Tennessee State-30-Syracuse-23
+Villanova-13-Temple-16
+San Jose State-0-Texas-56
+Indiana-34-Virginia-17
+Delaware-0-Virginia Tech-27
+TCU-28-Arkansas-7
+New Hampshire-22-Georgia Southern-12
+Central Michigan-45-Kansas-27
+Indiana State-7-Tennessee-42
+Louisiana Lafayette-42-Tulsa-66
+Alabama A&M-0-Vanderbilt-42
+Gardner Webb-0-Wyoming-27
+Nebraska-35-Oregon-42
+Weber State-20-California-33
+Hawaii-23-UCLA-56
+South Dakota-35-Bowling Green-27
+Marshall-20-NC State-37
+Alabama State-7-Troy-34
+Arkansas Pine Bluff-3-Akron-52
+UNLV-44-Idaho-16
+South Carolina-31-Missouri-13
+Toledo-37-Nevada-24
+North Texas-32-SMU-54
+Southern-0-Southern Miss-45
+Nicholls State-14-Texas A&M-24
+Auburn-6-Clemson-14
+Chattanooga-10-LSU-45
+Mississippi State-57-Louisiana Tech-21
+Oklahoma-31-Ohio State-16
+Georgia-20-Notre Dame-19
+UTSA-17-Baylor-10
+Western Kentucky-7-Illinois-20
+New Mexico State-30-New Mexico-28
+Rice-31-UTEP-14
+Montana-7-Washington-63
+Stanford-24-USC-42
+Minnesota-48-Oregon State-14
+Utah-19-BYU-13
+Houston-19-Arizona-16
+Boise State-44-Washington State-47
+San Diego State-30-Arizona State-20
+Sam Houston State-44-Prairie View A&M-31
+Houston Baptist-24-Texas Southern-17
+Delaware State-15-Hampton-28
+Holy Cross-20-Bucknell-0
+Fordham-38-Central Connecticut-31
+The Citadel-48-Presbyterian-7
+Wagner-6-Saint Francis-31
+Richmond-20-Colgate-17
+Southeast Missouri State-23-Dayton-25
+Elon-34-Furman-31
+Stetson-17-Marist-38
+Lehigh-27-Monmouth-46
+Albany-26-Morgan State-0
+Stony Brook-35-Rhode Island-18
+Duquesne-45-Valparaiso-40
+Robert Morris-0-Youngstown State-30
+Bryant-12-Maine-60
+Wofford-28-Mercer-27
+North Dakota State-40-Eastern Washington-13
+Missouri State-0-North Dakota-34
+Cal Poly-38-Northern Iowa-45
+Georgetown-16-Campbell-10
+East Tennessee State-10-James Madison-52
+Sacred Heart-38-Lafayette-24
+Morehead State-17-Liberty-58
+William & Mary-20-Norfolk State-6
+Davidson-17-Western Carolina-63
+Northwestern State-10-Grambling State-23
+Tennessee State-17-Jackson State-15
+Tennessee Tech-14-Kennesaw State-27
+Central Arkansas-41-Murray State-13
+Western Illinois-38-Northern Arizona-20
+Mississippi Valley State-3-Southern Illinois-55
+Southern Utah-51-Stephen F. Austin-14
+South Dakota State-31-Montana State-27
+Bethune Cookman-28-Southeastern Louisiana-23
+Incarnate Word-22-Sacramento State-56
+San Diego-7-UC Davis-35
+New Mexico-14-Boise State-28
+Illinois-23-South Florida-47
+UMass-21-Temple-29
+Arizona-63-UTEP-16
+Iowa State-41-Akron-14
+Air Force-13-Michigan-29
+Northern Illinois-21-Nebraska-17
+Kansas-30-Ohio-42
+Louisiana Lafayette-21-Texas A&M-45
+Connecticut-18-Virginia-38
+Delaware State-16-West Virginia-59
+Oklahoma State-59-Pittsburgh-21
+UCLA-45-Memphis-48
+Furman-16-NC State-49
+Baylor-20-Duke-34
+Coastal Carolina-23-UAB-30
+Northern Colorado-21-Colorado-41
+Tennessee Tech-13-Ball State-28
+Utah State-10-Wake Forest-46
+Notre Dame-49-Boston College-20
+North Texas-14-Iowa-31
+Middle Tennessee State-3-Minnesota-34
+North Carolina-53-Old Dominion-23
+Morgan State-0-Rutgers-65
+Central Michigan-17-Syracuse-41
+SMU-36-TCU-56
+Wisconsin-40-BYU-6
+Virginia Tech-64-East Carolina-17
+Tennessee-20-Florida-26
+Mercer-10-Auburn-24
+Purdue-35-Missouri-3
+Army-7-Ohio State-38
+Oregon State-23-Washington State-52
+Colgate-10-Buffalo-33
+North Carolina A&T-35-Charlotte-31
+Tulane-14-Oklahoma-56
+Bethune Cookman-0-Florida Atlantic-45
+Kent State-0-Marshall-21
+Colorado State-23-Alabama-41
+Arkansas Pine Bluff-3-Arkansas State-48
+Southern Miss-28-Louisiana Monroe-17
+Idaho State-30-Nevada-28
+Alabama A&M-0-South Alabama-45
+Appalachian State-20-Texas State-13
+Tulsa-51-Toledo-54
+Southern-17-UTSA-51
+Louisiana Tech-23-Western Kentucky-22
+Idaho-28-Western Michigan-37
+Oregon-49-Wyoming-13
+LSU-7-Mississippi State-37
+Samford-14-Georgia-42
+Bowling Green-7-Northwestern-49
+Georgia State-0-Penn State-56
+Kentucky-23-South Carolina-13
+Kansas State-7-Vanderbilt-14
+Rice-3-Houston-38
+Cincinnati-21-Miami(OH)-17
+Troy-27-New Mexico State-24
+Arizona State-45-Texas Tech-52
+Clemson-47-Louisville-21
+Texas-24-USC-27
+Fresno State-16-Washington-48
+San Jose State-16-Utah-54
+Ole Miss-16-California-27
+Stanford-17-San Diego State-20
+San Diego-17-Princeton-27
+Bryant-23-Brown-28
+Yale-56-Lehigh-28
+Wagner-14-Columbia-17
+Duquesne-28-Dayton-23
+The Citadel-31-East Tennessee State-25
+Eastern Washington-56-Fordham-21
+Marist-14-Georgetown-12
+Harvard-10-Rhode Island-17
+New Hampshire-26-Holy Cross-51
+Howard-21-Richmond-68
+Central Connecticut-9-Youngstown State-59
+Illinois State-44-Eastern Illinois-13
+Murray State-21-Missouri State-28
+Savannah State-3-Montana-56
+Virginia Military-0-Robert Morris-23
+North Dakota-7-South Dakota-45
+Cornell-14-Delaware-41
+Norfolk State-14-James Madison-75
+UC Davis-37-Portland State-14
+Tennessee Martin-21-Chattanooga-7
+Charleston Southern-17-Elon-19
+Tennessee State-24-Florida A&M-13
+Western Carolina-42-Gardner Webb-27
+Indiana State-41-Liberty-42
+Dartmouth-38-Stetson-7
+Sacred Heart-7-Stony Brook-45
+Lafayette-0-Villanova-59
+Bucknell-9-William & Mary-30
+Houston Baptist-3-Abilene Christian-24
+Monmouth-14-Albany-28
+McNeese State-34-Alcorn State-27
+Morehead State-13-Austin Peay-69
+Jackson State-21-Grambling State-36
+Prairie View A&M-13-Nicholls State-44
+Lamar-28-Northwestern State-35
+Campbell-16-Presbyterian-28
+Towson-16-Saint Francis-14
+Drake-10-South Dakota State-51
+Southern Illinois-35-Southeast Missouri State-17
+Incarnate Word-31-Stephen F. Austin-37
+Kennesaw State-20-Alabama State-14
+Northern Iowa-21-Southern Utah-24
+Southeastern Louisiana-6-Central Arkansas-38
+Weber State-31-Sacramento State-24

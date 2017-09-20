@@ -1,0 +1,110 @@
+South Florida: 37   Temple: 18
+Boise State: 30   Virginia: 25
+Arizona: 35   Utah: 31
+Florida State: 12   NC State: 31
+Houston: 26   Texas Tech: 29
+Kansas: 28   West Virginia: 49
+Louisville: 44   Kent State: 18
+Ohio State: 40   UNLV: 24
+Tennessee: 37   UMass: 18
+Texas A&M: 20   Arkansas: 25
+Tulane: 24   Army: 30
+Georgia Tech: 41   Pittsburgh: 27
+Tulsa: 42   New Mexico: 42
+Eastern Michigan: 17   Ohio: 24
+South Alabama: 25   Idaho: 24
+Virginia Tech: 38   Old Dominion: 10
+Maryland: 53   Central Florida: 59
+Appalachian State: 14   Wake Forest: 33
+Central Michigan: 26   Miami(OH): 30
+Clemson: 41   Boston College: 8
+Indiana: 37   Georgia Southern: 17
+Miami(FL): 37   Toledo: 33
+Navy: 26   Cincinnati: 18
+Nebraska: 25   Rutgers: 33
+North Carolina: 27   Duke: 49
+South Carolina: 33   Louisiana Tech: 27
+Vanderbilt: 14   Alabama: 18
+California: 26   USC: 30
+Oklahoma State: 33   TCU: 35
+Purdue: 21   Michigan: 24
+Louisiana Lafayette: 33   Louisiana Monroe: 46
+Charlotte: 28   Georgia State: 22
+Troy: 26   Akron: 15
+Washington State: 41   Nevada: 19
+Coastal Carolina: 24   Western Illinois: 35
+North Texas: 36   UAB: 32
+Baylor: 14   Oklahoma: 42
+Buffalo: 20   Florida Atlantic: 18
+LSU: 24   Syracuse: 25
+Middle Tennessee State: 28   Bowling Green: 18
+SMU: 47   Arkansas State: 38
+Western Kentucky: 16   Ball State: 27
+Western Michigan: 29   Wagner: 23
+Georgia: 18   Mississippi State: 33
+Air Force: 26   San Diego State: 21
+Rice: 18   Florida International: 31
+San Jose State: 26   Utah State: 39
+Texas State: 9   UTSA: 28
+Iowa: 15   Penn State: 34
+Missouri: 12   Auburn: 36
+Kentucky: 24   Florida: 14
+Memphis: 28   Southern Illinois: 40
+Michigan State: 20   Notre Dame: 28
+New Mexico State: 47   UTEP: 17
+Colorado: 15   Washington: 32
+Arizona State: 31   Oregon: 60
+Wyoming: 30   Hawaii: 21
+Stanford: 40   UCLA: 40
+Connecticut: 41   East Carolina: 23
+NC Central: 8   South Carolina State: 28
+Harvard: 12   Brown: 13
+Lehigh: 20   Penn: 28
+Bryant: 46   Fordham: 29
+Colgate: 25   Furman: 20
+Columbia: 9   Georgetown: 11
+Howard: 40   Bethune Cookman: 34
+Morehead State: 12   Dayton: 49
+Yale: 63   Cornell: 20
+James Madison: 37   Maine: 29
+Virginia Military: 13   Chattanooga: 31
+Wofford: 34   Gardner Webb: 11
+Delaware State: 29   Norfolk State: 25
+Drake: 30   Valparaiso: 54
+Hampton: 10   Monmouth: 37
+Missouri State: 8   Illinois State: 57
+Northern Colorado: 44   Idaho State: 29
+East Tennessee State: 19   Mercer: 35
+New Hampshire: 24   Rhode Island: 24
+North Dakota: 16   Montana State: 12
+North Dakota State: 34   Robert Morris: 1
+Western Carolina: 49   Samford: 29
+Stetson: 13   Campbell: 25
+San Diego: 25   Butler: 13
+Tennessee Martin: 15   Tennessee State: 17
+Bucknell: 24   Sacred Heart: 19
+Eastern Kentucky: 24   Tennessee Tech: 22
+Lafayette: 12   Princeton: 38
+Marist: 41   Jacksonville: 15
+Richmond: 35   Elon: 14
+Savannah State: 10   Florida A&M: 46
+Stony Brook: 35   Towson: 5
+Abilene Christian: 35   Stephen F. Austin: 15
+Alabama A&M: 11   Texas Southern: 27
+Albany: 17   Villanova: 23
+Alcorn State: 22   Southern: 16
+Dartmouth: 25   Holy Cross: 20
+Eastern Illinois: 22   Southeast Missouri State: 26
+Jackson State: 38   Arkansas Pine Bluff: 12
+Jacksonville State: 28   Liberty: 43
+McNeese State: 36   Houston Baptist: 19
+Mississippi Valley State: 14   Grambling State: 45
+Morgan State: 1   North Carolina A&T: 43
+Murray State: 13   Austin Peay: 35
+Sam Houston State: 26   Nicholls State: 24
+Weber State: 23   UC Davis: 30
+Alabama State: 29   Prairie View A&M: 25
+Montana: 38   Eastern Washington: 25
+Southeastern Louisiana: 39   Lamar: 29
+Sacramento State: 29   Southern Utah: 31
+Cal Poly: 33   Northern Arizona: 35

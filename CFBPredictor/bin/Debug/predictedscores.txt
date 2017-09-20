@@ -1,0 +1,908 @@
+Week 6
+
+Big 12
+
+Texas Tech: 24	
+Kansas State: 43		
+1-yes
+Iowa State: 29
+Oklahoma State: 39
+1-no
+Oklahoma: 24
+TCU: 28
+2-yes
+Baylor: 33
+Texas: 17
+3-yes
+West Virginia: 35
+Kansas: 17
+4-yes
+
+Big 10
+
+Purdue: 30
+Illinois: 34
+5-yes
+Ohio State: 38
+Maryland: 25
+6-yes
+North Texas: 26
+Indiana: 33
+2-no
+Wisconsin: 28
+Northwestern: 13
+3-no
+Michigan: 18
+Rutgers: 23
+4-no
+Nebraska: 45
+Michigan State: 39
+7-yes
+
+ACC
+
+Louisville: 21
+Syracuse: 14
+8-yes
+Virginia Tech: 48
+North Carolina: 25
+9-yes
+NC State: 40
+Clemson: 31
+5-no
+Wake Forest: 17
+Florida State: 35
+6-no
+Miami(FL): 33
+Georgia Tech: 31
+7-no
+Pittsburgh: 25
+Virginia: 31
+push
+
+Pac 12
+
+Arizona: 34
+Oregon: 42
+10-yes
+Stanford: 11
+Notre Dame: 15
+11-yes
+Oregon State: 35
+Colorado: 26
+12-yes
+Arizona State: 29
+USC: 39
+13-yes
+California: 47
+Washington State: 44
+14-yes
+Utah: 31
+UCLA: 35
+15-yes
+
+SEC
+
+Florida: 35
+Tennessee: 28
+16-yes
+Texas A&M: 31
+Mississippi State: 33
+8-no
+Alabama: 22
+Ole Miss: 24
+17-yes
+Vanderbilt: 14
+Georgia: 48
+9-no
+LSU: 27
+Auburn: 28
+10-no
+South Carolina: 24
+Kentucky: 23
+18-yes
+
+Overall: 18-10 ATS
+
+Week 7
+
+Big 12
+
+Texas: 12
+Oklahoma: 32
+1-no
+West Virginia: 45
+Texas Tech: 28
+2-no
+TCU: 30
+Baylor: 29
+1-yes
+Toledo: 32
+Iowa State: 36
+2-yes
+Oklahoma State: 37
+Kansas: 11
+3-no
+Big 10
+
+Illinois: 20
+Wisconsin: 40
+3-yes
+Indiana: 21
+Iowa: 24
+4-no
+Northwestern: 14
+Minnesota: 14
+5-no
+Michigan State: 48
+Purdue: 22
+6-no
+Penn State: 19
+Michigan: 13
+7-no
+ACC
+
+Florida State: 36
+Syracuse: 19
+4-yes
+Cincinnati: 28
+Miami(FL): 36
+8-no
+North Carolina: 19
+Notre Dame: 49
+9-no
+Duke: 28
+Georgia Tech: 26
+5-yes
+Boston College: 33
+NC State: 27
+6-yes
+Louisville: 21
+Clemson: 17
+7-yes
+Pac 12
+
+Oregon: 34
+UCLA: 32
+8-yes
+Washington State: 15
+Stanford: 30
+10-no
+Washington: 46
+California: 39
+9-yes
+USC: 31
+Arizona: 31
+10-yes
+SEC
+
+Georgia: 35
+Missouri: 27
+11-yes
+Louisiana Monroe: 12
+Kentucky: 26
+11-no
+Auburn: 34
+Mississippi State: 27
+12-no
+Alabama: 36
+Arkansas: 27
+1-push
+LSU: 28
+Florida: 25
+12-yes
+Ole Miss: 30
+Texas A&M: 23
+13-yes
+AAC
+
+BYU: 34
+Central Florida: 19
+13-no
+Tulsa: 14
+Temple: 44
+14-no
+Houston: 15
+Memphis: 27
+15-no
+East Carolina: 37
+South Florida: 18
+16-no
+Connecticut: 26
+Tulane: 22
+17-no
+CUSA
+
+Middle Tennessee State: 24
+Marshall: 53
+14-yes
+Rice: 33
+Army: 31
+18-no
+Florida International: 25
+UTSA: 20
+15-yes
+Old Dominion: 34
+UTEP: 32
+19-no
+MAC
+
+Buffalo: 47
+Eastern Michigan: 19
+20-no
+Bowling Green: 31
+Ohio: 34
+21-no
+Miami(OH): 19
+Akron: 27
+16-yes
+UMass: 31
+Kent State: 26
+17-yes
+Central Michigan: 25
+Northern Illinois: 25
+18-yes
+MWC
+
+San Diego State: 21
+New Mexico: 20
+22-no
+Fresno State: 43
+UNLV: 29
+23-no
+Air Force: 28
+Utah State: 21
+24-no
+Colorado State: 25
+Nevada: 23
+19-yes
+Wyoming: 14
+Hawaii: 21
+20-yes
+Sun Belt
+
+Arkansas State: 37
+Georgia State: 27
+25-no
+New Mexico State: 36
+Troy: 28
+26-no
+North Texas: 24
+UAB: 42
+21-yes
+Idaho: 22
+Georgia Southern: 42
+27-no
+
+21-27 ATS
+39-37 Overall ATS = 51.3%
+
+Week 8
+
+Louisiana Lafayette: 29
+Texas State: 40
+1-no
+Virginia Tech: 25
+Pittsburgh: 17
+2-no
+Utah: 32
+Oregon State: 24
+1-yes
+Fresno State: 25
+Boise State: 43
+3-no
+Temple: 27
+Houston: 18
+4-no
+Kansas State: 28
+Oklahoma: 33
+2-yes
+Baylor: 50
+West Virginia: 31
+5-no
+South Florida: 28
+Tulsa: 24
+3-yes
+Tulane: 17
+Central Florida: 27
+4-yes
+Syracuse: 24
+Wake Forest: 14
+5-yes
+Iowa: 24
+Maryland: 22
+6-no
+Purdue: 17
+Minnesota: 27
+6-yes
+Western Kentucky: 47
+Florida Atlantic: 30
+7-no
+UTSA: 19
+Louisiana Tech: 32
+8-no
+Virginia: 22
+Duke: 29
+7-yes
+Akron: 19
+Ohio: 8
+9-no
+Western Michigan: 43
+Bowling Green: 38
+8-yes
+Appalachian State: 28
+Troy: 30
+9-yes
+Eastern Michigan: 22
+UMass: 40
+10-yes
+Texas A&M: 26
+Alabama: 30
+10-no
+Michigan State: 51
+Indiana: 29
+11-yes
+Rutgers: 22
+Ohio State: 38
+11-no
+Clemson: 24
+Boston College: 21
+12-yes
+New Mexico: 19
+Air Force: 30
+12-no
+Army: 31
+Kent State: 18
+13-no
+Ball State: 24
+Central Michigan: 26
+13-yes
+UAB: 46
+Middle Tennessee State: 32
+14-no
+NC State: 16
+Louisville: 31
+14-yes
+Cincinnati: 48
+SMU: 18
+15-yes
+Kansas: 24
+Texas Tech: 26
+15-no
+UCLA: 50
+California: 39
+16-no
+Georgia: 38
+Arkansas: 25
+16-yes
+Oklahoma State: 32
+TCU: 44
+17-yes
+San Jose State: 21
+Wyoming: 19
+17-no
+Miami(OH): 29
+Northern Illinois: 29
+18-yes
+New Mexico State: 36
+Idaho: 40
+18-no
+Colorado: 23
+USC: 39
+19-no
+Marshall: 43
+Florida International: 17
+19-yes
+Tennessee: 11
+Ole Miss: 26
+20-no
+Southern Miss: 28
+North Texas: 31
+20-yes
+Utah State: 22
+Colorado State: 26
+21-yes
+Georgia Tech: 51
+North Carolina: 34
+21-no
+Missouri: 21
+Florida: 26
+22-yes
+Nebraska: 31
+Northwestern: 14
+23-yes
+Georgia State: 18
+South Alabama: 37
+24-yes
+Kentucky: 23
+LSU: 27
+22-no
+Notre Dame: 30
+Florida State: 30
+25-yes
+Washington: 23
+Oregon: 26
+23-no
+Iowa State: 19
+Texas: 22
+26-yes
+Nevada: 26
+BYU: 34
+27-yes
+Stanford: 30
+Arizona State: 22
+24-no
+Hawaii: 18
+San Diego State: 15
+push
+
+27-24-1 ATS
+66-61 (52.0%) overall
+
+Week 10
+
+5. Florida State: 27
+33. Louisville: 24
+1-no
+120. Troy: 13
+43. Georgia Southern: 47
+1-yes
+61. Cincinnati: 36
+112. Tulane: 21
+2-yes
+121. Tulsa: 19
+46. Memphis: 44
+2-no
+56. Air Force: 35
+115. Army: 22
+3-yes
+12. Oklahoma: 46
+73. Iowa State: 24
+4-yes
+36. East Carolina: 32
+89. Temple: 26
+5-yes
+29. Duke: 30
+72. Pittsburgh: 16
+6-yes
+58. Northwestern: 16
+55. Iowa: 16
+3-no
+45. Maryland: 20
+54. Penn State: 26
+4-no
+31. Wisconsin: 36
+52. Rutgers: 18
+7-yes
+79. Rice: 29
+93. Florida International: 25
+5-no
+65. Central Florida: 24
+118. Connecticut: 9
+6-no
+102. Louisiana Monroe: 18
+28. Texas A&M: 35
+8-yes
+48. Boston College: 17
+50. Virginia Tech: 17
+9-yes
+57. North Carolina: 31
+25. Miami(FL): 47
+7-no
+91. Central Michigan: 33
+126. Eastern Michigan: 10
+10-yes
+49. Washington: 33
+99. Colorado: 22
+11-yes
+77. Western Michigan: 35
+113. Miami(OH): 27
+12-yes
+87. Western Kentucky: 39
+34. Louisiana Tech: 45
+8-no
+64. NC State: 24
+78. Syracuse: 27
+9-no
+38. Florida: 24
+10. Georgia: 40
+10-no
+6. TCU: 47
+21. West Virginia: 29
+11-no
+83. Purdue: 20
+9. Nebraska: 46
+push
+62. Virginia: 28
+27. Georgia Tech: 34
+13-yes
+40. BYU: 40
+59. Middle Tennessee State: 33
+14-yes
+88. Indiana: 24
+69. Michigan: 32
+15-yes
+116. Georgia State: 34
+114. Appalachian State: 40
+12-no
+109. Kansas: 12
+22. Baylor: 43
+13-no
+100. Texas State: 36
+127. New Mexico State: 28
+16-yes
+47. Kentucky: 19
+32. Missouri: 27
+17-yes
+75. Houston: 26
+106. South Florida: 12
+18-yes
+30. USC: 44
+82. Washington State: 26
+19-yes
+70. Arkansas State: 38
+125. Idaho: 27
+20-yes
+60. South Alabama: 29
+66. Louisiana Lafayette: 22
+14-no
+111. New Mexico: 37
+117. UNLV: 26
+21-yes
+1. Auburn: 23
+3. Ole Miss: 23
+22-yes
+26. Colorado State: 31
+94. San Jose State: 14
+23-yes
+85. UAB: 37
+90. Florida Atlantic: 27
+24-yes
+107. Old Dominion: 34
+101. Vanderbilt: 31
+15-no
+39. Arkansas: 27
+2. Mississippi State: 40
+16-no
+35. Stanford: 20
+7. Oregon: 27
+push
+71. Texas: 34
+84. Texas Tech: 24
+25-yes
+44. Tennessee: 31
+41. South Carolina: 30
+26-yes
+13. Notre Dame: 34
+81. Navy: 19
+17-no
+68. Illinois: 23
+14. Ohio State: 51
+push
+51. Oklahoma State: 18
+11. Kansas State: 33
+27-yes
+98. Southern Miss: 24
+80. UTEP: 33
+28-yes
+19. Arizona: 38
+20. UCLA: 34
+29-yes
+95. San Diego State: 15
+42. Nevada: 24
+30-yes
+63. California: 40
+74. Oregon State: 41
+31-yes
+97. Wyoming: 30
+96. Fresno State: 31
+32-yes
+
+32-17 ATS (65.3%)
+98-78 Overall (55.7%)
+
+Week 11
+
+87. Bowling Green: 26
+94. Akron: 31
+1-NO
+64. Toledo: 34
+126. Kent State: 21
+push
+128. Buffalo: 27
+102. Ohio: 28
+1-YES
+78. Northern Illinois: 29
+97. Ball State: 33
+2-NO
+17. Clemson: 28
+111. Wake Forest: 7
+3-NO
+44. Memphis: 26
+75. Temple: 19
+2-YES
+46. Utah State: 31
+89. Wyoming: 18
+3-YES
+20. Georgia: 37
+50. Kentucky: 22
+4-YES
+19. Baylor: 38
+10. Oklahoma: 39
+5-YES
+34. Louisiana Tech: 37
+83. UAB: 28
+6-YES
+109. UTSA: 20
+68. Rice: 28
+7-YES
+101. SMU: 20
+115. Tulsa: 40
+4-NO
+63. Penn State: 32
+93. Indiana: 19
+PUSH
+40. Iowa: 22
+43. Minnesota: 18
+5-NO
+27. Wisconsin: 39
+81. Purdue: 17
+8-YES
+30. Duke: 27
+82. Syracuse: 15
+9-YES
+26. Georgia Tech: 40
+55. NC State: 27
+10-YES
+67. South Alabama: 22
+58. Arkansas State: 25
+6-NO
+120. Georgia State: 45
+118. Troy: 33
+7-NO
+31. Texas A&M: 25
+1. Auburn: 41
+11-YES
+16. Notre Dame: 32
+11. Arizona State: 28
+8-NO
+23. West Virginia: 27
+62. Texas: 19
+9-NO
+88. Louisiana Monroe: 23
+108. Appalachian State: 23
+12-YES
+113. Connecticut: 24
+119. Army: 22
+13-YES
+114. Tulane: 8
+61. Houston: 29
+10-NO
+99. Florida International: 35
+112. Old Dominion: 29
+14-YES
+66. Michigan: 19
+73. Northwestern: 14
+11-NO
+70. Iowa State: 32
+106. Kansas: 22
+12-NO
+74. UTEP: 43
+104. Western Kentucky: 40
+15-YES
+49. Air Force: 38
+122. UNLV: 17
+16-YES
+85. Washington State: 33
+84. Oregon State: 36
+17-YES
+120. Georgia Southern: 42
+90. Texas State: 20
+13-NO
+71. Virginia: 22
+5. Florida State: 37
+18-YES
+121. Idaho: 22
+103. San Diego State: 26
+19-YES
+13. UCLA: 26
+47. Washington: 22
+14-NO
+96. Florida Atlantic: 35
+124. North Texas: 25
+15-NO
+18. Marshall: 49
+100. Southern Miss: 11
+20-YES
+21. Boise State: 41
+110. New Mexico: 24
+21-YES
+116. Hawaii: 15
+24. Colorado State: 30
+16-NO
+35. Louisville: 21
+39. Boston College: 17
+22-YES
+9. Kansas State: 30
+7. TCU: 36
+17-NO
+28. Florida: 36
+98. Vanderbilt: 17
+23-YES
+4. Alabama: 25
+8. LSU: 18
+24-YES
+12. Ohio State: 39
+15. Michigan State: 38
+25-YES
+95. Colorado: 28
+25. Arizona: 44
+26-YES
+51. Louisiana Lafayette: 39
+125. New Mexico State: 27
+18-NO
+6. Oregon: 36
+32. Utah: 26
+27-YES
+92. San Jose State: 32
+107. Fresno State: 26
+19-NO
+
+27-19 ATS (58.7%)
+125-97 OVERALL (56.3%)
+
+Week 12
+
+101. Akron: 30
+127. Buffalo: 22
+1-NO
+66. Toledo: 35
+70. Northern Illinois: 34
+1-YES
+105. Ball State: 37
+123. UMass: 32
+2-NO
+125. Kent State: 23
+73. Bowling Green: 32
+2-YES
+53. East Carolina: 34
+52. Cincinnati: 34
+3-YES
+97. Southern Miss: 17
+114. UTSA: 25
+3-NO
+60. California: 33
+32. USC: 47
+PUSH
+117. Tulsa: 24
+80. Central Florida: 38
+4-NO
+77. Temple: 13
+59. Penn State: 15
+5-NO
+8. Ohio State: 40
+36. Minnesota: 24
+6-NO
+57. Iowa: 34
+71. Illinois: 24
+4-YES
+113. Army: 36
+90. Western Kentucky: 43
+PUSH
+23. Clemson: 26
+21. Georgia Tech: 31
+5-YES
+58. Virginia Tech: 18
+26. Duke: 26
+7-NO
+56. South Carolina: 31
+30. Florida: 40
+8-NO
+76. Pittsburgh: 44
+69. North Carolina: 37
+9-NO
+118. Miami(OH): 21
+83. Central Michigan: 30
+6-YES
+126. Eastern Michigan: 11
+64. Western Michigan: 42
+7-YES
+42. Nevada: 26
+48. Air Force: 24
+10-NO
+63. Rice: 20
+17. Marshall: 45
+8-YES
+104. Wake Forest: 22
+65. NC State: 29
+11-NO
+5. TCU: 47
+99. Kansas: 10
+12-NO
+93. Appalachian State: 26
+46. Arkansas State: 36
+9-YES
+13. Nebraska: 29
+25. Wisconsin: 27
+13-NO
+95. Indiana: 27
+54. Rutgers: 32
+14-NO
+15. Oklahoma: 52
+89. Texas Tech: 22
+15-NO
+50. Washington: 22
+27. Arizona: 29
+10-YES
+40. Georgia Southern: 38
+74. Navy: 25
+16-NO
+78. Northwestern: 17
+20. Notre Dame: 30
+11-YES
+67. Middle Tennessee State: 29
+112. Florida International: 26
+12-YES
+39. Memphis: 32
+108. Tulane: 11
+13-YES
+2. Mississippi State: 25
+4. Alabama: 27
+14-YES
+55. Kentucky: 23
+37. Tennessee: 28
+17-NO
+111. New Mexico: 19
+41. Utah State: 34
+15-YES
+115. Hawaii: 23
+102. San Jose State: 22
+16-YES
+116. Troy: 28
+124. Idaho: 35
+18-NO
+31. Utah: 18
+44. Stanford: 18
+17-YES
+122. UNLV: 21
+38. BYU: 46
+18-YES
+47. Louisiana Lafayette: 26
+88. Louisiana Monroe: 23
+PUSH
+3. Auburn: 36
+16. Georgia: 36
+19-NO
+87. Texas State: 21
+72. South Alabama: 23
+19-YES
+29. Missouri: 27
+22. Texas A&M: 24
+20-YES
+51. Texas: 25
+62. Oklahoma State: 19
+21-YES
+110. South Florida: 32
+106. SMU: 10
+20-NO
+11. LSU: 26
+43. Arkansas: 20
+21-NO
+7. Florida State: 32
+18. Miami(FL): 30
+22-YES
+19. Michigan State: 47
+45. Maryland: 26
+23-YES
+119. North Texas: 24
+81. UTEP: 34
+24-YES
+96. San Diego State: 20
+24. Boise State: 33
+25-YES
+9. Arizona State: 39
+92. Oregon State: 23
+22-NO
+
+25-22 ATS (53.2%)
+150-119 OVERALL (55.8%)

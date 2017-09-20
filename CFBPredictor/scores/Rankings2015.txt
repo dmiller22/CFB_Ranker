@@ -1,0 +1,503 @@
+1. Alabama			74.0052327771079
+2. Clemson			41.2457439924923
+3. Oklahoma			38.0044187063608
+4. Ohio State			35.5023567145192
+5. Stanford			34.6965780029935
+6. Michigan State		30.9123329314484
+7. Ole Miss			30.48043105556
+8. LSU				27.8502037739451
+9. Houston			27.2777742134794
+10. TCU				25.1928358395822
+11. Notre Dame			24.3326138387829
+12. Michigan			23.9089336833763
+13. Navy			23.2137852752142
+14. Baylor			22.9321477917712
+15. Iowa			22.8905473410764
+16. Mississippi State		21.9521720076978
+17. Western Kentucky		21.4312063565389
+18. Tennessee			20.9087577513493
+19. Toledo			20.5098774195233
+20. North Carolina		20.4121777614197
+21. Oklahoma State		20.3980560616387
+22. Oregon			19.4681173669947
+23. Florida State		19.4090265094443
+24. Florida			19.3128158880985
+25. Arkansas			19.1311595698709
+26. Northwestern		18.2289412851335
+27. Appalachian State		17.7440543841868
+28. Wisconsin			17.4315235886846
+29. Georgia			17.3213616146235
+30. USC				16.951812449018
+31. Memphis			16.4148164189827
+32. Utah			16.3443344779266
+33. Bowling Green		15.7173749101248
+34. Washington State		15.2288065184808
+35. California			14.6475753194137
+36. BYU				14.2777511485655
+37. San Diego State		14.1952322760253
+38. Temple			14.1532210419681
+39. Texas A&M			13.9425996604457
+40. West Virginia		12.6530645398713
+41. Washington			12.487242706354
+42. Boise State			12.3875147425153
+43. Auburn			12.2546908895623
+44. Marshall			11.9525360587627
+45. UCLA			11.9173655101744
+46. Pittsburgh			11.8118537524764
+47. Western Michigan		10.9351147861175
+48. South Florida		10.7768786219603
+49. Georgia Southern		10.6472133425977
+50. Louisville			10.4846076783694
+51. Arkansas State		10.0627331068927
+52. Penn State			9.90696260878587
+53. Southern Miss		9.77666589028819
+54. Miami(FL)			9.64510096737578
+55. Texas Tech			9.12635315584933
+56. Louisiana Tech		8.45517864450308
+57. Nebraska			7.82926314874199
+58. Air Force			7.51219521308197
+59. NC State			7.46050006350371
+60. Utah State			7.32189373494481
+61. Ohio			7.22274819297613
+62. Duke			7.21760364155297
+63. Minnesota			7.20291358287944
+64. Cincinnati			7.01735070529697
+65. Arizona State		6.99742229177605
+66. Virginia Tech		6.6440113547408
+67. Akron			6.41978743465764
+68. Northern Illinois		6.37634596979973
+69. Arizona			6.1468777890455
+70. Central Michigan		6.14411671866167
+71. Texas			6.0288340867835
+72. Middle Tennessee State	5.9673934308711
+73. Indiana			5.70467127042908
+74. Kansas State		5.52072652747697
+75. Georgia State		5.24146667074938
+76. Missouri			4.62551553405662
+77. Illinois			4.55270136500083
+78. Connecticut			4.46525267692781
+79. Colorado State		4.39832197230414
+80. Tulsa			4.34371067446078
+81. East Carolina		4.01986084991834
+82. Nevada			3.92225751244952
+83. Kentucky			3.54241402446643
+84. New Mexico			3.53900112860768
+85. Vanderbilt			3.49333992163954
+86. San Jose State		3.45576745303324
+87. South Carolina		3.14728041983538
+88. Virginia			2.73047839507173
+89. Syracuse			2.4920533152741
+90. Buffalo			2.44540566046669
+91. Maryland			2.42735286952113
+92. South Alabama		2.29412328843106
+93. Iowa State			2.24110663687131
+94. Rutgers			2.16439643734027
+95. Georgia Tech		2.10444575212539
+96. Florida International	2.02670093102793
+97. Colorado			1.89629222933034
+98. Troy			1.89173185368527
+99. Old Dominion		1.85017545578679
+100. Louisiana Lafayette		1.64259414761933
+101. Rice			1.64072326033412
+102. Ball State			1.56949781621419
+103. Wake Forest		1.50213587710938
+104. Florida Atlantic		1.48549188503065
+105. SMU			1.42464327421116
+106. Idaho			1.38252136990076
+107. UMass			1.37895738731986
+108. UTEP			1.32050475613773
+109. Purdue			1.30988837783768
+110. Oregon State		1.26883023006306
+111. Boston College		1.1673019830387
+112. New Mexico State		1.16044703883877
+113. Wyoming			1.1218891723422
+114. UTSA			1.10513811193078
+115. Kansas			1.08722510719051
+116. UNLV			1.06126898003916
+117. Fresno State		1.05495971729093
+118. Kent State			1.04302520135947
+119. Miami(OH)			1.03343313211978
+120. Texas State		0.981840060549805
+121. Tulane			0.923914831097492
+122. Hawaii			0.84671850753612
+123. North Texas		0.837282660223238
+124. Central Florida		0.777996600054411
+125. Army			0.718709669468143
+126. Louisiana Monroe		0.702968924639936
+127. Charlotte			0.653906660227461
+128. Eastern Michigan		0.64765571321229
+129. Youngstown State		NaN
+130. Yale			NaN
+131. Wofford			NaN
+132. William & Mary		NaN
+133. Western Illinois		NaN
+134. Western Carolina		NaN
+135. Weber State		NaN
+136. Wagner			NaN
+137. Virginia Military		NaN
+138. Villanova			NaN
+139. Valparaiso			NaN
+140. Tennessee-Martin		NaN
+141. UC Davis			NaN
+142. Towson			NaN
+143. Texas Southern		NaN
+144. Tennessee Tech		NaN
+145. Tennessee State		NaN
+146. Stony Brook		NaN
+147. Stetson			NaN
+148. Stephen F. Austin		NaN
+149. Southern Utah		NaN
+150. Southern Illinois		NaN
+151. Southern			NaN
+152. Southeast Missouri State	NaN
+153. Southeastern Louisiana	NaN
+154. South Dakota State		NaN
+155. South Dakota		NaN
+156. South Carolina State	NaN
+157. Savannah State		NaN
+158. San Diego			NaN
+159. Samford			NaN
+160. Sam Houston State		NaN
+161. Saint Francis		NaN
+162. Sacred Heart		NaN
+163. Sacramento State		NaN
+164. Robert Morris		NaN
+165. Richmond			NaN
+166. Rhode Island		NaN
+167. Princeton			NaN
+168. Presbyterian		NaN
+169. Prairie View A&M		NaN
+170. Portland State		NaN
+171. Penn			NaN
+172. Northwestern State		NaN
+173. Northern Iowa		NaN
+174. Northern Colorado		NaN
+175. Northern Arizona		NaN
+176. North Dakota State		NaN
+177. North Dakota		NaN
+178. NC Central			NaN
+179. North Carolina A&T		NaN
+180. Norfolk State		NaN
+181. Nicholls State		NaN
+182. New Hampshire		NaN
+183. Murray State		NaN
+184. Morgan State		NaN
+185. Morehead State		NaN
+186. Montana State		NaN
+187. Montana			NaN
+188. Monmouth			NaN
+189. Missouri State		NaN
+190. Mississippi Valley State	NaN
+191. Mercer			NaN
+192. McNeese State		NaN
+193. Marist			NaN
+194. Maine			NaN
+195. Liberty			NaN
+196. Lehigh			NaN
+197. Lamar			NaN
+198. Lafayette			NaN
+199. Kennesaw State		NaN
+200. James Madison		NaN
+201. Jacksonville State		NaN
+202. Jacksonville		NaN
+203. Jackson State		NaN
+204. Indiana State		NaN
+205. Incarnate Word		NaN
+206. Illinois State		NaN
+207. Idaho State		NaN
+208. Howard			NaN
+209. Houston Baptist		NaN
+210. Holy Cross			NaN
+211. Harvard			NaN
+212. Hampton			NaN
+213. Grambling State		NaN
+214. Georgetown			NaN
+215. Gardner-Webb		NaN
+216. Furman			NaN
+217. Fordham			NaN
+218. Florida A&M		NaN
+219. Elon			NaN
+220. Eastern Washington		NaN
+221. Eastern Kentucky		NaN
+222. Eastern Illinois		NaN
+223. East Tennessee State	NaN
+224. Duquesne			NaN
+225. Drake			NaN
+226. Delaware State		NaN
+227. Delaware			NaN
+228. Dayton			NaN
+229. Davidson			NaN
+230. Dartmouth			NaN
+231. Cornell			NaN
+232. Columbia			NaN
+233. Colgate			NaN
+234. Coastal Carolina		NaN
+235. The Citadel		NaN
+236. Chattanooga		NaN
+237. Charleston Southern		NaN
+238. Central Connecticut		NaN
+239. Central Arkansas		NaN
+240. Campbell			NaN
+241. Cal Poly			NaN
+242. Butler			NaN
+243. Bucknell			NaN
+244. Bryant			NaN
+245. Brown			NaN
+246. Bethune Cookman		NaN
+247. Austin Peay		NaN
+248. Arkansas Pine Bluff		NaN
+249. Alcorn State		NaN
+250. Albany			NaN
+251. Alabama State		NaN
+252. Alabama A&M		NaN
+253. Abilene Christian		NaN
+254. Youngstown State		NaN
+255. Yale			NaN
+256. Wofford			NaN
+257. William & Mary		NaN
+258. Western Illinois		NaN
+259. Western Carolina		NaN
+260. Weber State		NaN
+261. Wagner			NaN
+262. Virginia Military		NaN
+263. Villanova			NaN
+264. Valparaiso			NaN
+265. Tennessee-Martin		NaN
+266. UC Davis			NaN
+267. Towson			NaN
+268. Texas Southern		NaN
+269. Tennessee Tech		NaN
+270. Tennessee State		NaN
+271. Stony Brook		NaN
+272. Stetson			NaN
+273. Stephen F. Austin		NaN
+274. Southern Utah		NaN
+275. Southern Illinois		NaN
+276. Southern			NaN
+277. Southeast Missouri State	NaN
+278. Southeastern Louisiana	NaN
+279. South Dakota State		NaN
+280. South Dakota		NaN
+281. South Carolina State	NaN
+282. Savannah State		NaN
+283. San Diego			NaN
+284. Samford			NaN
+285. Sam Houston State		NaN
+286. Saint Francis		NaN
+287. Sacred Heart		NaN
+288. Sacramento State		NaN
+289. Robert Morris		NaN
+290. Richmond			NaN
+291. Rhode Island		NaN
+292. Princeton			NaN
+293. Presbyterian		NaN
+294. Prairie View A&M		NaN
+295. Portland State		NaN
+296. Penn			NaN
+297. Northwestern State		NaN
+298. Northern Iowa		NaN
+299. Northern Colorado		NaN
+300. Northern Arizona		NaN
+301. North Dakota State		NaN
+302. North Dakota		NaN
+303. NC Central			NaN
+304. North Carolina A&T		NaN
+305. Norfolk State		NaN
+306. Nicholls State		NaN
+307. New Hampshire		NaN
+308. Murray State		NaN
+309. Morgan State		NaN
+310. Morehead State		NaN
+311. Montana State		NaN
+312. Montana			NaN
+313. Monmouth			NaN
+314. Missouri State		NaN
+315. Mississippi Valley State	NaN
+316. Mercer			NaN
+317. McNeese State		NaN
+318. Marist			NaN
+319. Maine			NaN
+320. Liberty			NaN
+321. Lehigh			NaN
+322. Lamar			NaN
+323. Lafayette			NaN
+324. Kennesaw State		NaN
+325. James Madison		NaN
+326. Jacksonville State		NaN
+327. Jacksonville		NaN
+328. Jackson State		NaN
+329. Indiana State		NaN
+330. Incarnate Word		NaN
+331. Illinois State		NaN
+332. Idaho State		NaN
+333. Howard			NaN
+334. Houston Baptist		NaN
+335. Holy Cross			NaN
+336. Harvard			NaN
+337. Hampton			NaN
+338. Grambling State		NaN
+339. Georgetown			NaN
+340. Gardner-Webb		NaN
+341. Furman			NaN
+342. Fordham			NaN
+343. Florida A&M		NaN
+344. Elon			NaN
+345. Eastern Washington		NaN
+346. Eastern Kentucky		NaN
+347. Eastern Illinois		NaN
+348. East Tennessee State	NaN
+349. Duquesne			NaN
+350. Drake			NaN
+351. Delaware State		NaN
+352. Delaware			NaN
+353. Dayton			NaN
+354. Davidson			NaN
+355. Dartmouth			NaN
+356. Cornell			NaN
+357. Columbia			NaN
+358. Colgate			NaN
+359. Coastal Carolina		NaN
+360. The Citadel		NaN
+361. Chattanooga		NaN
+362. Charleston Southern		NaN
+363. Central Connecticut		NaN
+364. Central Arkansas		NaN
+365. Campbell			NaN
+366. Cal Poly			NaN
+367. Butler			NaN
+368. Bucknell			NaN
+369. Bryant			NaN
+370. Brown			NaN
+371. Bethune Cookman		NaN
+372. Austin Peay		NaN
+373. Arkansas Pine Bluff		NaN
+374. Alcorn State		NaN
+375. Albany			NaN
+376. Alabama State		NaN
+377. Alabama A&M		NaN
+378. Abilene Christian		NaN
+379. Youngstown State		NaN
+380. Yale			NaN
+381. Wofford			NaN
+382. William & Mary		NaN
+383. Western Illinois		NaN
+384. Western Carolina		NaN
+385. Weber State		NaN
+386. Wagner			NaN
+387. Virginia Military		NaN
+388. Villanova			NaN
+389. Valparaiso			NaN
+390. Tennessee-Martin		NaN
+391. UC Davis			NaN
+392. Towson			NaN
+393. Texas Southern		NaN
+394. Tennessee Tech		NaN
+395. Tennessee State		NaN
+396. Stony Brook		NaN
+397. Stetson			NaN
+398. Stephen F. Austin		NaN
+399. Southern Utah		NaN
+400. Southern Illinois		NaN
+401. Southern			NaN
+402. Southeast Missouri State	NaN
+403. Southeastern Louisiana	NaN
+404. South Dakota State		NaN
+405. South Dakota		NaN
+406. South Carolina State	NaN
+407. Savannah State		NaN
+408. San Diego			NaN
+409. Samford			NaN
+410. Sam Houston State		NaN
+411. Saint Francis		NaN
+412. Sacred Heart		NaN
+413. Sacramento State		NaN
+414. Robert Morris		NaN
+415. Richmond			NaN
+416. Rhode Island		NaN
+417. Princeton			NaN
+418. Presbyterian		NaN
+419. Prairie View A&M		NaN
+420. Portland State		NaN
+421. Penn			NaN
+422. Northwestern State		NaN
+423. Northern Iowa		NaN
+424. Northern Colorado		NaN
+425. Northern Arizona		NaN
+426. North Dakota State		NaN
+427. North Dakota		NaN
+428. NC Central			NaN
+429. North Carolina A&T		NaN
+430. Norfolk State		NaN
+431. Nicholls State		NaN
+432. New Hampshire		NaN
+433. Murray State		NaN
+434. Morgan State		NaN
+435. Morehead State		NaN
+436. Montana State		NaN
+437. Montana			NaN
+438. Monmouth			NaN
+439. Missouri State		NaN
+440. Mississippi Valley State	NaN
+441. Mercer			NaN
+442. McNeese State		NaN
+443. Marist			NaN
+444. Maine			NaN
+445. Liberty			NaN
+446. Lehigh			NaN
+447. Lamar			NaN
+448. Lafayette			NaN
+449. Kennesaw State		NaN
+450. James Madison		NaN
+451. Jacksonville State		NaN
+452. Jacksonville		NaN
+453. Jackson State		NaN
+454. Indiana State		NaN
+455. Incarnate Word		NaN
+456. Illinois State		NaN
+457. Idaho State		NaN
+458. Howard			NaN
+459. Houston Baptist		NaN
+460. Holy Cross			NaN
+461. Harvard			NaN
+462. Hampton			NaN
+463. Grambling State		NaN
+464. Georgetown			NaN
+465. Gardner-Webb		NaN
+466. Furman			NaN
+467. Fordham			NaN
+468. Florida A&M		NaN
+469. Elon			NaN
+470. Eastern Washington		NaN
+471. Eastern Kentucky		NaN
+472. Eastern Illinois		NaN
+473. East Tennessee State	NaN
+474. Duquesne			NaN
+475. Drake			NaN
+476. Delaware State		NaN
+477. Delaware			NaN
+478. Dayton			NaN
+479. Davidson			NaN
+480. Dartmouth			NaN
+481. Cornell			NaN
+482. Columbia			NaN
+483. Colgate			NaN
+484. Coastal Carolina		NaN
+485. The Citadel		NaN
+486. Chattanooga		NaN
+487. Charleston Southern		NaN
+488. Central Connecticut		NaN
+489. Central Arkansas		NaN
+490. Campbell			NaN
+491. Cal Poly			NaN
+492. Butler			NaN
+493. Bucknell			NaN
+494. Bryant			NaN
+495. Brown			NaN
+496. Bethune Cookman		NaN
+497. Austin Peay		NaN
+498. Arkansas Pine Bluff		NaN
+499. Alcorn State		NaN
+500. Albany			NaN
+501. Alabama State		NaN
+502. Alabama A&M		NaN
+503. Abilene Christian		NaN

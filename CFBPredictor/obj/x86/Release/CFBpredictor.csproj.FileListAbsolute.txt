@@ -1,0 +1,8 @@
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\CFBpredictor\bin\Release\CFBpredictor.exe
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\CFBpredictor\bin\Release\CFBpredictor.pdb
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\CFBpredictor\obj\x86\Release\CFBpredictor.Ranker.resources
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\CFBpredictor\obj\x86\Release\CFBpredictor.Properties.Resources.resources
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\CFBpredictor\obj\x86\Release\CFBpredictor.csproj.GenerateResource.Cache
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\CFBpredictor\obj\x86\Release\CFBpredictor.exe
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\CFBpredictor\obj\x86\Release\CFBpredictor.pdb
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\CFBpredictor\obj\x86\Release\CFBpredictor.TeamForm.resources

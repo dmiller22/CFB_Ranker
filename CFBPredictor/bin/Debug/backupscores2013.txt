@@ -1,0 +1,737 @@
+North Carolina-10-South Carolina-27   - 293 - 406
+UNLV-23-Minnesota-51   - 419 - 320
+Tulsa-7-Bowling Green-34   - 273 - 396
+Akron-7-Central Florida-38   - 250 - 476
+Utah State-26-Utah-30   - 487 - 450
+Vanderbilt-35-Ole Miss-39   - 426 - 489
+Rutgers-51-Fresno State-52   - 543 - 537
+Hawaii-13-USC-30   - 231 - 364
+Western Michigan-13-Michigan State-26   - 204 - 297
+Florida Atlantic-6-Miami(FL)-34   - 250 - 503
+Texas Tech-41-SMU-23   - 461 - 490
+Buffalo-20-Ohio State-40   - 258 - 460
+UMass-0-Wisconsin-45   - 212 - 598
+Purdue-7-Cincinnati-42   - 226 - 425
+Toledo-6-Florida-24   - 205 - 415
+Florida International-10-Maryland-43   - 171 - 576
+Louisiana Tech-14-NC State-40   - 321 - 542
+Rice-31-Texas A&M-52   - 509 - 486
+Mississippi State-3-Oklahoma State-21   - 333 - 432
+Temple-6-Notre Dame-28   - 362 - 543
+Central Michigan-9-Michigan-59   - 210 - 463
+Syracuse-17-Penn State-23   - 260 - 353
+BYU-16-Virginia-19   - 362 - 223
+Northern Illinois-30-Iowa-27   - 438 - 458
+Louisiana Lafayette-14-Arkansas-34   - 274 - 522
+Alabama-35-Virginia Tech-10   - 206 - 212
+Louisiana Monroe-0-Oklahoma-34   - 166 - 429
+Washington State-24-Auburn-31   - 464 - 394
+Idaho-6-North Texas-40   - 369 - 591
+Miami(OH)-14-Marshall-52   - 239 - 591
+Texas State-22-Southern Miss-15   - 207 - 400
+UAB-31-Troy-34   - 447 - 497
+Kentucky-26-Western Kentucky-35   - 419 - 487
+Georgia-35-Clemson-38   - 545 - 467
+New Mexico State-7-Texas-56   - 346 - 715
+Wyoming-34-Nebraska-37   - 602 - 530
+UTSA-21-New Mexico-13   - 394 - 277
+LSU-37-TCU-27   - 448 - 259
+Boise State-6-Washington-38   - 346 - 592
+Nevada-20-UCLA-58   - 353 - 647
+Northwestern-44-California-30   - 508 - 549
+Ohio-7-Louisville-49   - 273 - 615
+Colorado-41-Colorado State-27   - 509 - 295
+Florida State-41-Pittsburgh-13   - 533 - 297
+Florida Atlantic-13-East Carolina-31   - 282 - 312
+Wake Forest-10-Boston College-24   - 245 - 314
+Central Florida-38-Florida International-0   - 390 - 173
+Florida-16-Miami(FL)-21   - 413 - 212
+Oklahoma State-56-UTSA-35   - 605 - 504
+Miami(OH)-7-Kentucky-41   - 122 - 675
+South Florida-6-Michigan State-21   - 155 - 265
+Eastern Michigan-7-Penn State-45   - 183 - 574
+Houston-22-Temple-13   - 524 - 300
+Cincinnati-17-Illinois-45   - 456 - 522
+Bowling Green-41-Kent State-22   - 576 - 302
+Western Kentucky-20-Tennessee-52   - 393 - 382
+Middle Tennessee State-20-North Carolina-40   - 402 - 511
+Army-14-Ball State-40   - 439 - 440
+Oregon-59-Virginia-10   - 557 - 298
+San Diego State-7-Ohio State-42   - 280 - 445
+Buffalo-13-Baylor-70   - 363 - 781
+Toledo-23-Missouri-38   - 387 - 384
+Utah State-52-Air Force-20   - 577 - 270
+South Alabama-41-Tulane-39   - 465 - 372
+Idaho-10-Wyoming-42   - 344 - 564
+South Carolina-30-Georgia-41   - 454 - 536
+Duke-28-Memphis-14   - 470 - 237
+Syracuse-27-Northwestern-48   - 434 - 581
+Southern Miss-13-Nebraska-56   - 284 - 479
+Navy-41-Indiana-35   - 515 - 481
+Louisiana Lafayette-27-Kansas State-48   - 370 - 454
+Texas-21-BYU-40   - 445 - 679
+West Virginia-7-Oklahoma-16   - 387 - 435
+North Texas-21-Ohio-27   - 299 - 442
+Colorado State-27-Tulsa-30   - 275 - 427
+Arkansas State-9-Auburn-38   - 422 - 468
+UAB-17-LSU-56   - 296 - 445
+Notre Dame-30-Michigan-41   - 410 - 460
+Minnesota-44-New Mexico State-21   - 469 - 356
+Hawaii-14-Oregon State-33   - 239 - 508
+New Mexico-42-UTEP-35   - 483 - 402
+Washington State-10-USC-7   - 222 - 193
+Arizona-58-UNLV-13   - 478 - 282
+San Jose State-13-Stanford-34   - 251 - 404
+TCU-10-Texas Tech-20   - 401 - 336
+Troy-34-Arkansas State-41   - 504 - 311
+Tulane-24-Louisiana Tech-15   - 364 - 289
+Air Force-20-Boise State-42   - 287 - 533
+Stanford-34-Army-20   - 402 - 333
+Louisville-27-Kentucky-13   - 492 - 376
+Akron-24-Michigan-28   - 418 - 425
+Tulsa-20-Oklahoma-51   - 321 - 607
+UCLA-41-Nebraska-21   - 504 - 331
+Bowling Green-10-Indiana-42   - 409 - 601
+Virginia Tech-15-East Carolina-10   - 311 - 204
+Georgia State-7-West Virginia-41   - 220 - 604
+Southern Miss-3-Arkansas-24   - 254 - 327
+Louisiana Monroe-21-Wake Forest-19   - 424 - 325
+New Mexico-27-Pittsburgh-49   - 270 - 527
+Eastern Michigan-10-Rutgers-28   - 373 - 274
+Boston College-7-USC-35   - 184 - 521
+Alabama-49-Texas A&M-42   - 568 - 628
+Tennessee-14-Oregon-59   - 316 - 687
+Nevada-7-Florida State-62   - 214 - 617
+Georgia Tech-38-Duke-14   - 469 - 254
+Ball State-27-North Texas-34   - 496 - 505
+Northern Illinois-45-Idaho-35   - 508 - 442
+Washington-34-Illinois-24   - 615 - 327
+Iowa-27-Iowa State-24   - 378 - 319
+Central Florida-34-Penn State-31   - 507 - 455
+Ohio State-52-California-34   - 608 - 503
+Kent State-13-LSU-45   - 248 - 571
+Vanderbilt-25-South Carolina-35   - 268 - 579
+Mississippi State-20-Auburn-24   - 415 - 459
+Florida Atlantic-28-South Florida-10   - 228 - 297
+UMass-7-Kansas State-37   - 309 - 456
+Memphis-15-Middle Tennessee State-17   - 350 - 284
+Western Kentucky-24-South Alabama-31   - 427 - 414
+Maryland-32-Connecticut-21   - 501 - 374
+Kansas-14-Rice-23   - 270 - 370
+Notre Dame-31-Purdue-24   - 400 - 294
+Ole Miss-44-Texas-23   - 449 - 320
+UTEP-42-New Mexico State-21   - 546 - 398
+Marshall-31-Ohio-34   - 482 - 335
+Western Michigan-17-Northwestern-38   - 345 - 471
+Oregon State-51-Utah-48   - 491 - 539
+Central Michigan-21-UNLV-31   - 378 - 411
+Wisconsin-30-Arizona State-32   - 441 - 468
+UTSA-13-Arizona-38   - 379 - 422
+Clemson-26-NC State-14   - 415 - 378
+Boise State-40-Fresno State-41   - 561 - 522
+Florida International-0-Louisville-72   - 27 - 464
+North Carolina-20-Georgia Tech-28   - 319 - 428
+UMass-24-Vanderbilt-7   - 406 - 248
+San Jose State-24-Minnesota-43   - 486 - 424
+Marshall-21-Virginia Tech-29   - 361 - 382
+Wake Forest-25-Army-11   - 360 - 357
+Toledo-38-Central Michigan-17   - 418 - 370
+Middle Tennessee State-42-Florida Atlantic-35   - 446 - 503
+Western Michigan-3-Iowa-59   - 209 - 446
+Louisiana Tech-10-Kansas-13   - 443 - 396
+North Texas-21-Georgia-45   - 245 - 641
+Pittsburgh-58-Duke-55   - 598 - 532
+Tulane-17-Syracuse-52   - 330 - 405
+Ball State-51-Eastern Michigan-20   - 546 - 416
+Houston-31-Rice-26   - 494 - 463
+Tennessee-17-Florida-31   - 220 - 382
+Michigan State-13-Notre Dame-17   - 254 - 220
+Purdue-10-Wisconsin-41   - 180 - 546
+Utah State-14-USC-17   - 285 - 282
+West Virginia-0-Maryland-37   - 175 - 323
+Arkansas-24-Rutgers-28   - 283 - 400
+Kent State-0-Penn State-34   - 190 - 463
+Louisiana Monroe-7-Baylor-70   - 295 - 781
+Cincinnati-14-Miami(OH)-0   - 369 - 87
+Arkansas State-7-Memphis-31   - 255 - 505
+Louisiana Lafayette-35-Akron-30   - 460 - 455
+Colorado State-6-Alabama-31   - 279 - 338
+Arizona State-28-Stanford-42   - 417 - 391
+SMU-13-Texas A&M-42   - 434 - 581
+Texas State-7-Texas Tech-33   - 240 - 552
+Oregon State-34-San Diego State-30   - 377 - 325
+Troy-7-Mississippi State-62   - 186 - 551
+Auburn-21-LSU-35   - 437 - 457
+Michigan-24-Connecticut-21   - 284 - 206
+Missouri-45-Indiana-28   - 623 - 475
+Kansas State-21-Texas-31   - 390 - 452
+UTSA-32-UTEP-13   - 385 - 218
+Hawaii-9-Nevada-31   - 376 - 340
+Utah-20-BYU-13   - 402 - 443
+Wyoming-56-Air Force-23   - 622 - 473
+New Mexico State-13-UCLA-59   - 333 - 692
+Idaho-0-Washington State-42   - 253 - 417
+Virginia Tech-17-Georgia Tech-10   - 276 - 273
+Iowa State-38-Tulsa-21   - 434 - 374
+Utah State-40-San Jose State-12   - 520 - 437
+Middle Tennessee State-10-BYU-37   - 212 - 486
+Oklahoma State-21-West Virginia-30   - 433 - 388
+South Carolina-28-Central Florida-25   - 490 - 427
+Miami(FL)-49-South Florida-21   - 540 - 288
+Miami(OH)-14-Illinois-50   - 250 - 601
+Northern Illinois-55-Purdue-24   - 402 - 524
+SMU-17-TCU-48   - 292 - 335
+South Alabama-24-Tennessee-31   - 392 - 482
+East Carolina-55-North Carolina-31   - 603 - 465
+Virginia-3-Pittsburgh-14   - 188 - 199
+Navy-7-Western Kentucky-19   - 162 - 417
+Akron-14-Bowling Green-31   - 296 - 396
+Troy-31-Duke-38   - 512 - 514
+Colorado-17-Oregon State-44   - 300 - 540
+Toledo-24-Ball State-31   - 415 - 463
+Wake Forest-7-Clemson-56   - 222 - 573
+LSU-41-Georgia-44   - 449 - 494
+Florida State-48-Boston College-34   - 489 - 397
+Oklahoma-35-Notre Dame-21   - 450 - 324
+UTEP-42-Colorado State-59   - 497 - 591
+Iowa-23-Minnesota-7   - 464 - 165
+Central Michigan-14-NC State-48   - 259 - 483
+Connecticut-12-Buffalo-41   - 220 - 330
+Army-35-Louisiana Tech-16   - 430 - 377
+Houston-59-UTSA-28   - 491 - 493
+Temple-24-Idaho-26   - 410 - 470
+Ole Miss-0-Alabama-25   - 205 - 434
+Texas A&M-45-Arkansas-33   - 523 - 483
+Arizona-13-Washington-31   - 318 - 409
+Florida-24-Kentucky-7   - 402 - 173
+Florida Atlantic-14-Rice-18   - 366 - 273
+Wyoming-21-Texas State-42   - 356 - 452
+Tulane-31-Louisiana Monroe-14   - 318 - 293
+Kent State-32-Western Michigan-14   - 452 - 310
+Arkansas State-19-Missouri-41   - 435 - 495
+UAB-24-Vanderbilt-52   - 362 - 540
+Wisconsin-24-Ohio State-31   - 399 - 390
+San Diego State-26-New Mexico State-16   - 441 - 268
+UNLV-56-New Mexico-42   - 568 - 581
+Air Force-42-Nevada-45   - 453 - 599
+Stanford-55-Washington State-17   - 560 - 373
+Southern Miss-7-Boise State-60   - 266 - 545
+California-16-Oregon-55   - 325 - 381
+USC-41-Arizona State-62   - 542 - 612
+Fresno State-42-Hawaii-37   - 530 - 431
+Texas-31-Iowa State-30   - 363 - 463
+Western Kentucky-31-Louisiana Monroe-10   - 530 - 391
+UCLA-34-Utah-27   - 404 - 387
+BYU-31-Utah State-14   - 437 - 397
+Nevada-44-San Diego State-51   - 570 - 541
+Air Force-10-Navy-28   - 313 - 327
+Louisville-30-Temple-7   - 525 - 255
+Maryland-0-Florida State-63   - 234 - 614
+Texas Tech-54-Kansas-16   - 518 - 273
+Penn State-24-Indiana-44   - 410 - 486
+Illinois-19-Nebraska-39   - 372 - 521
+Ball State-48-Virginia-27   - 506 - 459
+Eastern Michigan-14-Buffalo-42   - 329 - 452
+Michigan State-26-Iowa-14   - 412 - 264
+Rutgers-55-SMU-52   - 474 - 558
+Georgia State-3-Alabama-45   - 175 - 477
+North Carolina-17-Virginia Tech-27   - 376 - 341
+Army-27-Boston College-48   - 427 - 523
+Central Michigan-21-Miami(OH)-9   - 294 - 294
+South Alabama-33-Troy-34   - 630 - 434
+UTSA-10-Marshall-34   - 254 - 404
+Ohio-43-Akron-3   - 362 - 157
+Florida Atlantic-37-UAB-23   - 579 - 307
+Western Michigan-20-Toledo-47   - 375 - 528
+Clemson-49-Syracuse-14   - 624 - 397
+Georgia-34-Tennessee-31   - 434 - 404
+Georgia Tech-30-Miami(FL)-45   - 401 - 551
+Minnesota-13-Michigan-42   - 281 - 348
+Kansas State-29-Oklahoma State-33   - 336 - 330
+NC State-13-Wake Forest-28   - 372 - 382
+UMass-7-Bowling Green-28   - 280 - 448
+Rice-30-Tulsa-27   - 344 - 415
+Northern Illinois-38-Kent State-24   - 698 - 392
+East Carolina-24-Middle Tennessee State-17   - 511 - 334
+North Texas-21-Tulane-24   - 360 - 227
+Washington State-44-California-22   - 570 - 585
+Florida International-24-Southern Miss-23   - 341 - 314
+Central Florida-24-Memphis-17   - 270 - 397
+Fresno State-61-Idaho-14   - 731 - 273
+Oregon-57-Colorado-16   - 755 - 374
+LSU-59-Mississippi State-26   - 563 - 468
+TCU-17-Oklahoma-20   - 210 - 355
+Arkansas-10-Florida-30   - 275 - 355
+Ole Miss-22-Auburn-30   - 464 - 375
+Cincinnati-20-South Florida-26   - 350 - 241
+New Mexico State-17-New Mexico-66   - 451 - 608
+Texas State-24-Louisiana Lafayette-48   - 196 - 572
+Kentucky-28-South Carolina-35   - 301 - 453
+Arizona State-34-Notre Dame-37   - 362 - 279
+Missouri-51-Vanderbilt-28   - 523 - 468
+Louisiana Tech-38-UTEP-35   - 463 - 440
+Ohio State-40-Northwestern-30   - 451 - 437
+West Virginia-42-Baylor-73   - 394 - 872
+Washington-28-Stanford-31   - 489 - 279
+San Jose State-37-Hawaii-27   - 534 - 473
+Rutgers-10-Louisville-24   - 240 - 461
+San Diego State-27-Air Force-20   - 463 - 319
+Arizona-31-USC-38   - 508 - 546
+Temple-20-Cincinnati-38   - 376 - 475
+Missouri-41-Georgia-26   - 375 - 454
+Oklahoma-20-Texas-36   - 263 - 445
+Iowa State-35-Texas Tech-42   - 311 - 666
+Pittsburgh-9-Virginia Tech-19   - 210 - 315
+South Florida-13-Connecticut-10   - 228 - 356
+Indiana-28-Michigan State-42   - 351 - 473
+Memphis-15-Houston-25   - 349 - 247
+Eastern Michigan-25-Army-50   - 417 - 551
+Nebraska-44-Purdue-7   - 435 - 216
+Kansas-17-TCU-27   - 198 - 380
+South Carolina-52-Arkansas-7   - 537 - 248
+Navy-7-Duke-35   - 319 - 435
+Central Michigan-26-Ohio-23   - 432 - 439
+Buffalo-33-Western Michigan-0   - 422 - 202
+Miami(OH)-10-UMass-17   - 290 - 376
+Kent State-24-Ball State-27   - 407 - 423
+Boston College-14-Clemson-24   - 286 - 496
+Florida-6-LSU-17   - 240 - 327
+Baylor-35-Kansas State-25   - 446 - 445
+Northwestern-6-Wisconsin-35   - 241 - 527
+San Jose State-34-Colorado State-27   - 608 - 447
+Virginia-26-Maryland-27   - 505 - 468
+Syracuse-24-NC State-10   - 436 - 355
+Troy-35-Georgia State-28   - 634 - 422
+East Carolina-33-Tulane-36   - 543 - 310
+New Mexico-31-Wyoming-38   - 436 - 534
+Oregon-45-Washington-24   - 631 - 376
+Rice-27-UTSA-21   - 340 - 434
+Michigan-40-Penn State-43   - 389 - 390
+Akron-20-Northern Illinois-27   - 372 - 399
+Marshall-24-Florida Atlantic-23   - 355 - 395
+Stanford-21-Utah-27   - 389 - 410
+Alabama-48-Kentucky-7   - 668 - 170
+Middle Tennessee State-7-North Texas-34   - 205 - 416
+Georgia Tech-20-BYU-38   - 400 - 433
+Louisiana Monroe-21-Texas State-14   - 192 - 358
+Idaho-24-Arkansas State-48   - 386 - 565
+Bowling Green-20-Mississippi State-21   - 384 - 422
+UAB-27-Florida International-24   - 405 - 396
+Boise State-34-Utah State-23   - 447 - 348
+Hawaii-37-UNLV-39   - 454 - 579
+Tulsa-34-UTEP-20   - 430 - 388
+Texas A&M-41-Ole Miss-38   - 587 - 462
+Colorado-13-Arizona State-54   - 268 - 532
+California-10-UCLA-37   - 320 - 488
+Oregon State-52-Washington State-24   - 598 - 383
+Louisiana Lafayette-37-Western Kentucky-20   - 344 - 471
+Miami(FL)-27-North Carolina-23   - 556 - 500
+Central Florida-38-Louisville-35   - 446 - 445
+South Carolina-21-Tennessee-23   - 384 - 325
+Georgia-27-Vanderbilt-31   - 221 - 337
+Texas Tech-37-West Virginia-27   - 573 - 437
+TCU-10-Oklahoma State-24   - 325 - 415
+Minnesota-20-Northwestern-17   - 299 - 328
+Purdue-0-Michigan State-14   - 226 - 294
+Southern Miss-14-East Carolina-55   - 233 - 476
+SMU-34-Memphis-29   - 460 - 320
+Connecticut-16-Cincinnati-41   - 377 - 525
+Navy-44-Toledo-45   - 514 - 426
+Florida-17-Missouri-36   - 151 - 500
+Syracuse-0-Georgia Tech-56   - 208 - 482
+Akron-24-Miami(OH)-17   - 374 - 303
+Army-14-Temple-33   - 338 - 361
+Ohio-56-Eastern Michigan-28   - 547 - 477
+Ball State-38-Western Michigan-17   - 483 - 368
+Colorado State-52-Wyoming-22   - 509 - 416
+Northern Illinois-38-Central Michigan-17   - 592 - 346
+Kent State-21-South Alabama-38   - 428 - 481
+Iowa-24-Ohio State-34   - 375 - 495
+Auburn-45-Texas A&M-41   - 615 - 602
+UCLA-10-Stanford-24   - 266 - 419
+Oklahoma-34-Kansas-19   - 415 - 201
+Indiana-47-Michigan-63   - 572 - 751
+Maryland-10-Wake Forest-34   - 383 - 307
+BYU-47-Houston-46   - 681 - 483
+Duke-35-Virginia-22   - 472 - 363
+UMass-3-Buffalo-32   - 247 - 382
+North Texas-28-Louisiana Tech-13   - 386 - 404
+Washington-24-Arizona State-53   - 212 - 585
+Arkansas-0-Alabama-52   - 256 - 532
+LSU-24-Ole Miss-27   - 388 - 525
+Iowa State-7-Baylor-71   - 174 - 714
+Georgia State-17-Texas State-24   - 368 - 343
+USC-10-Notre Dame-14   - 330 - 300
+Florida State-51-Clemson-14   - 565 - 326
+Wisconsin-56-Illinois-32   - 478 - 391
+Nevada-17-Boise State-34   - 373 - 557
+Rice-45-New Mexico State-19   - 515 - 328
+Utah State-45-New Mexico-10   - 492 - 300
+Washington State-38-Oregon-62   - 559 - 719
+UNLV-14-Fresno State-38   - 294 - 641
+Utah-24-Arizona-35   - 329 - 468
+Oregon State-49-California-17   - 570 - 366
+Louisiana Lafayette-23-Arkansas State-7   - 470 - 168
+Kentucky-22-Mississippi State-28   - 325 - 447
+Marshall-49-Middle Tennessee State-51   - 448 - 585
+Boise State-20-BYU-37   - 499 - 568
+Wake Forest-21-Miami(FL)-24   - 361 - 391
+Louisville-34-South Florida-3   - 485 - 133
+Oklahoma State-58-Iowa State-27   - 420 - 346
+Connecticut-17-Central Florida-62   - 233 - 527
+Nebraska-23-Minnesota-34   - 328 - 430
+Houston-49-Rutgers-14   - 611 - 420
+Ball State-42-Akron-24   - 434 - 437
+Northwestern-10-Iowa-17   - 329 - 305
+Vanderbilt-24-Texas A&M-56   - 329 - 558
+Georgia Tech-35-Virginia-25   - 507 - 444
+Pittsburgh-21-Navy-24   - 338 - 325
+Miami(OH)-16-Ohio-41   - 240 - 535
+Toledo-28-Bowling Green-25   - 372 - 343
+Western Michigan-31-UMass-30   - 393 - 332
+Temple-49-SMU-59   - 593 - 728
+Tennessee-10-Alabama-45   - 322 - 479
+NC State-17-Florida State-49   - 316 - 566
+Clemson-40-Maryland-27   - 540 - 369
+Duke-13-Virginia Tech-10   - 198 - 387
+Eastern Michigan-20-Northern Illinois-59   - 337 - 658
+Boston College-10-North Carolina-34   - 261 - 392
+UTEP-7-Rice-45   - 364 - 524
+Michigan State-42-Illinois-3   - 477 - 128
+Buffalo-41-Kent State-21   - 491 - 363
+Tulsa-7-Tulane-14   - 344 - 301
+West Virginia-12-Kansas State-35   - 367 - 448
+Utah-3-USC-19   - 201 - 260
+Troy-32-Western Kentucky-26   - 397 - 532
+Texas Tech-30-Oklahoma-38   - 460 - 526
+Notre Dame-45-Air Force-10   - 466 - 339
+UAB-31-UTSA-52   - 506 - 523
+Louisiana Tech-23-Florida International-7   - 333 - 197
+UNLV-27-Nevada-22   - 484 - 487
+UCLA-14-Oregon-42   - 283 - 555
+South Carolina-27-Missouri-24   - 498 - 404
+Baylor-59-Kansas-14   - 743 - 308
+Wyoming-44-San Jose State-51   - 599 - 642
+South Alabama-31-Texas State-33   - 409 - 452
+Georgia State-10-Louisiana Monroe-38   - 244 - 534
+North Texas-55-Southern Miss-14   - 529 - 249
+Florida Atlantic-10-Auburn-45   - 247 - 628
+Idaho-14-Ole Miss-59   - 253 - 572
+Texas-30-TCU-7   - 415 - 246
+Penn State-14-Ohio State-63   - 357 - 686
+Arizona-44-Colorado-20   - 670 - 349
+Stanford-20-Oregon State-12   - 273 - 288
+Fresno State-35-San Diego State-28   - 341 - 507
+California-17-Washington-41   - 483 - 642
+Colorado State-35-Hawaii-28   - 408 - 418
+Cincinnati-34-Memphis-21   - 437 - 232
+South Florida-23-Houston-35   - 364 - 388
+Rice-16-North Texas-28   - 355 - 253
+Louisiana Monroe-49-Troy-37   - 462 - 511
+Arizona State-55-Washington State-21   - 557 - 302
+USC-31-Oregon State-14   - 489 - 369
+Ohio State-56-Purdue-0   - 640 - 116
+Northern Illinois-63-UMass-19   - 612 - 324
+Wisconsin-28-Iowa-9   - 362 - 289
+Virginia Tech-27-Boston College-34   - 446 - 289
+Temple-20-Rutgers-23   - 322 - 440
+Illinois-17-Penn State-24   - 411 - 490
+Southern Miss-13-Marshall-61   - 397 - 636
+Army-28-Air Force-42   - 417 - 454
+Mississippi State-16-South Carolina-34   - 385 - 307
+North Carolina-27-NC State-19   - 427 - 388
+Wake Forest-0-Syracuse-13   - 198 - 352
+Middle Tennessee State-24-UAB-21   - 429 - 356
+Western Kentucky-44-Georgia State-28   - 444 - 410
+Clemson-59-Virginia-10   - 610 - 277
+Michigan-6-Michigan State-29   - 168 - 394
+Arizona-33-California-28   - 448 - 419
+Georgia-23-Florida-20   - 414 - 319
+Minnesota-42-Indiana-39   - 573 - 496
+Navy-34-Notre Dame-38   - 419 - 506
+Northwestern-24-Nebraska-27   - 326 - 472
+UTSA-34-Tulsa-15   - 400 - 378
+Kansas-13-Texas-35   - 306 - 418
+Kent State-7-Akron-16   - 300 - 304
+Iowa State-7-Kansas State-41   - 248 - 447
+West Virginia-30-TCU-27   - 415 - 454
+Hawaii-10-Utah State-47   - 319 - 533
+San Jose State-34-UNLV-24   - 492 - 351
+Texas State-37-Idaho-21   - 336 - 326
+New Mexico State-35-Louisiana Lafayette-49   - 450 - 440
+Tulane-17-Florida Atlantic-34   - 167 - 331
+Auburn-35-Arkansas-17   - 366 - 346
+East Carolina-34-Florida International-13   - 373 - 267
+Tennessee-3-Missouri-31   - 334 - 502
+Oklahoma State-52-Texas Tech-34   - 492 - 549
+Pittsburgh-10-Georgia Tech-21   - 228 - 360
+Eastern Michigan-16-Toledo-55   - 309 - 729
+Colorado-23-UCLA-45   - 381 - 412
+Arkansas State-17-South Alabama-16   - 349 - 371
+Miami(FL)-14-Florida State-41   - 275 - 517
+New Mexico-30-San Diego State-35   - 423 - 483
+Boise State-42-Colorado State-30   - 437 - 626
+UTEP-7-Texas A&M-57   - 198 - 564
+Nevada-23-Fresno State-41   - 424 - 647
+Bowling Green-45-Miami(OH)-3   - 447 - 228
+Ohio-3-Buffalo-30   - 233 - 421
+Central Michigan-24-Ball State-44   - 397 - 549
+Oklahoma-12-Baylor-41   - 237 - 459
+Troy-36-Louisiana Lafayette-41   - 469 - 378
+Oregon-20-Stanford-26   - 312 - 377
+Louisville-31-Connecticut-10   - 369 - 237
+Air Force-37-New Mexico-45   - 445 - 479
+Florida State-59-Wake Forest-3   - 296 - 166
+Auburn-55-Tennessee-23   - 479 - 354
+Missouri-48-Kentucky-17   - 426 - 369
+Kansas State-49-Texas Tech-26   - 367 - 459
+Vanderbilt-34-Florida-17   - 183 - 344
+TCU-21-Iowa State-17   - 368 - 283
+Penn State-10-Minnesota-24   - 353 - 381
+UAB-14-Marshall-56   - 464 - 657
+Western Kentucky-21-Army-17   - 334 - 347
+SMU-25-Cincinnati-28   - 451 - 462
+Iowa-38-Purdue-14   - 509 - 266
+Arkansas-24-Ole Miss-34   - 389 - 531
+Virginia-14-North Carolina-45   - 316 - 415
+Western Michigan-32-Eastern Michigan-35   - 468 - 403
+Tulane-7-UTSA-10   - 348 - 315
+USC-62-California-28   - 499 - 483
+Mississippi State-41-Texas A&M-51   - 556 - 537
+BYU-17-Wisconsin-27   - 370 - 425
+Nevada-17-Colorado State-38   - 411 - 570
+Illinois-35-Indiana-52   - 612 - 650
+Syracuse-20-Maryland-3   - 382 - 292
+Nebraska-17-Michigan-13   - 273 - 175
+Boston College-48-New Mexico State-34   - 550 - 539
+UTEP-7-North Texas-41   - 184 - 471
+Hawaii-28-Navy-42   - 464 - 442
+Tulsa-24-East Carolina-58   - 363 - 505
+Kansas-6-Oklahoma State-42   - 316 - 359
+Arizona State-20-Utah-19   - 293 - 247
+NC State-20-Duke-38   - 412 - 321
+Florida International-0-Middle Tennessee State-48   - 233 - 556
+Virginia Tech-42-Miami(FL)-24   - 549 - 352
+Houston-14-Central Florida-19   - 367 - 398
+Texas-47-West Virginia-40   - 435 - 399
+Southern Miss-13-Louisiana Tech-36   - 357 - 469
+Arkansas State-42-Louisiana Monroe-14   - 494 - 328
+LSU-17-Alabama-38   - 284 - 372
+Notre Dame-21-Pittsburgh-28   - 456 - 355
+Colorado-7-Washington-59   - 299 - 628
+Utah State-28-UNLV-24   - 441 - 402
+UCLA-31-Arizona-26   - 476 - 425
+Fresno State-48-Wyoming-10   - 600 - 296
+San Diego State-34-San Jose State-30   - 409 - 382
+Ohio-0-Bowling Green-49   - 172 - 460
+Buffalo-41-Toledo-51   - 601 - 551
+Ball State-27-Northern Illinois-48   - 494 - 569
+Miami(OH)-6-Kent State-24   - 176 - 447
+Georgia Tech-31-Clemson-55   - 440 - 551
+Marshall-45-Tulsa-34   - 619 - 345
+Washington-31-UCLA-41   - 432 - 406
+Ohio State-60-Illinois-35   - 591 - 420
+Central Florida-39-Temple-36   - 657 - 518
+Indiana-3-Wisconsin-51   - 224 - 676
+Iowa State-10-Oklahoma-48   - 291 - 523
+Troy-21-Ole Miss-51   - 313 - 751
+Cincinnati-52-Rutgers-17   - 619 - 357
+Purdue-21-Penn State-45   - 264 - 501
+West Virginia-19-Kansas-31   - 389 - 376
+Central Michigan-27-Western Michigan-22   - 285 - 311
+Kentucky-6-Vanderbilt-22   - 262 - 313
+NC State-21-Boston College-38   - 360 - 473
+North Carolina-34-Pittsburgh-27   - 322 - 359
+Maryland-27-Virginia Tech-24   - 319 - 264
+Florida Atlantic-41-Southern Miss-7   - 368 - 189
+Akron-14-UMass-13   - 341 - 323
+Washington State-24-Arizona-17   - 420 - 395
+UAB-14-East Carolina-63   - 354 - 625
+Louisiana Lafayette-35-Georgia State-21   - 482 - 481
+Connecticut-21-SMU-38   - 385 - 460
+Syracuse-3-Florida State-59   - 247 - 523
+Georgia-38-Auburn-43   - 532 - 566
+Oklahoma State-38-Texas-13   - 380 - 389
+Michigan State-41-Nebraska-28   - 361 - 392
+Miami(FL)-30-Duke-48   - 565 - 543
+Michigan-27-Northwestern-19   - 365 - 322
+TCU-31-Kansas State-33   - 348 - 411
+South Alabama-14-Navy-42   - 300 - 519
+Utah-21-Oregon-44   - 297 - 433
+California-24-Colorado-41   - 411 - 485
+Florida-14-South Carolina-19   - 307 - 377
+Houston-13-Louisville-20   - 195 - 332
+Memphis-23-South Florida-10   - 242 - 325
+Colorado State-66-New Mexico-42   - 649 - 527
+Louisiana Tech-14-Rice-52   - 327 - 582
+Texas Tech-34-Baylor-63   - 458 - 675
+Texas State-21-Arkansas State-38   - 368 - 424
+Alabama-20-Mississippi State-7   - 383 - 197
+Stanford-17-USC-20   - 337 - 311
+Florida International-10-UTEP-33   - 200 - 407
+Oregon State-17-Arizona State-30   - 390 - 339
+Wyoming-7-Boise State-48   - 265 - 524
+San Diego State-28-Hawaii-21   - 499 - 355
+San Jose State-16-Nevada-38   - 384 - 482
+Buffalo-44-Miami(OH)-7   - 517 - 200
+Kent State-44-Ohio-13   - 537 - 204
+Northern Illinois-35-Toledo-17   - 566 - 419
+Rutgers-17-Central Florida-41   - 221 - 452
+Rice-37-UAB-34   - 467 - 333
+UNLV-41-Air Force-21   - 471 - 298
+Navy-58-San Jose State-52   - 478 - 600
+Michigan State-30-Northwestern-6   - 464 - 319
+Memphis-17-Louisville-24   - 279 - 342
+Oklahoma-41-Kansas State-31   - 472 - 372
+Duke-28-Wake Forest-21   - 378 - 248
+Cincinnati-24-Houston-17   - 573 - 278
+Michigan-21-Iowa-24   - 158 - 407
+Virginia-26-Miami(FL)-45   - 483 - 304
+Illinois-20-Purdue-16   - 380 - 283
+Mississippi State-24-Arkansas-17   - 488 - 339
+East Carolina-42-NC State-28   - 445 - 441
+Pittsburgh-17-Syracuse-16   - 239 - 307
+UMass-0-Central Michigan-37   - 173 - 298
+Bowling Green-58-Eastern Michigan-7   - 560 - 65
+Hawaii-56-Wyoming-59   - 624 - 793
+Georgia State-33-Arkansas State-35   - 432 - 290
+New Mexico State-10-Florida Atlantic-55   - 278 - 585
+Idaho-14-Florida State-80   - 345 - 645
+Indiana-14-Ohio State-42   - 442 - 471
+Oregon-16-Arizona-42   - 506 - 482
+Texas A&M-10-LSU-34   - 299 - 517
+Wisconsin-20-Minnesota-7   - 324 - 185
+BYU-13-Notre Dame-23   - 415 - 470
+Boston College-29-Maryland-26   - 374 - 278
+Nebraska-23-Penn State-20   - 360 - 387
+UTSA-21-North Texas-13   - 458 - 334
+Utah-37-Washington State-49   - 481 - 578
+Colorado State-0-Utah State-13   - 185 - 191
+Middle Tennessee State-42-Southern Miss-21   - 418 - 371
+UTEP-3-Tulane-45   - 232 - 482
+California-13-Stanford-63   - 383 - 603
+New Mexico-28-Fresno State-69   - 316 - 822
+Marshall-48-Florida International-10   - 558 - 262
+Arizona State-38-UCLA-33   - 448 - 404
+Louisiana Monroe-14-South Alabama-36   - 274 - 424
+SMU-16-South Florida-6   - 280 - 259
+Kentucky-17-Georgia-59   - 211 - 602
+Connecticut-28-Temple-21   - 235 - 372
+Western Kentucky-38-Texas State-7   - 473 - 130
+Tulsa-24-Louisiana Tech-14   - 368 - 336
+Vanderbilt-14-Tennessee-10   - 285 - 237
+Missouri-24-Ole Miss-10   - 485 - 378
+Baylor-17-Oklahoma State-49   - 453 - 594
+Kansas-0-Iowa State-34   - 279 - 502
+USC-47-Colorado-29   - 449 - 312
+Boise State-31-San Diego State-34   - 297 - 349
+Washington-69-Oregon State-27   - 692 - 414
+Western Michigan-14-Northern Illinois-33   - 256 - 464
+Texas Tech-16-Texas-41   - 396 - 463
+Ole Miss-10-Mississippi State-17   - 318 - 296
+Iowa-38-Nebraska-17   - 282 - 288
+SMU-0-Houston-34   - 295 - 365
+East Carolina-28-Marshall-59   - 440 - 539
+Toledo-29-Akron-31   - 388 - 344
+Miami(OH)-14-Ball State-55   - 281 - 585
+Bowling Green-24-Buffalo-7   - 490 - 236
+UMass-23-Ohio-51   - 290 - 461
+Eastern Michigan-10-Central Michigan-42   - 344 - 387
+Texas State-28-Troy-42   - 425 - 461
+Arkansas-27-LSU-31   - 360 - 470
+Florida International-6-Florida Atlantic-21   - 132 - 431
+Fresno State-52-San Jose State-62   - 646 - 736
+Miami(FL)-41-Pittsburgh-31   - 476 - 501
+Washington State-17-Washington-27   - 326 - 405
+Oregon State-35-Oregon-36   - 545 - 568
+South Florida-20-Central Florida-23   - 294 - 296
+Florida State-37-Florida-7   - 456 - 193
+Ohio State-42-Michigan-41   - 526 - 603
+Minnesota-3-Michigan State-14   - 249 - 324
+Duke-27-North Carolina-25   - 461 - 448
+Rutgers-17-Connecticut-28   - 364 - 372
+Temple-41-Memphis-21   - 534 - 228
+Kansas State-31-Kansas-10   - 368 - 223
+Wake Forest-21-Vanderbilt-23   - 266 - 403
+Maryland-41-NC State-21   - 432 - 351
+Southern Miss-62-UAB-27   - 472 - 431
+Air Force-13-Colorado State-58   - 279 - 629
+Colorado-17-Utah-24   - 321 - 388
+Wyoming-7-Utah State-35   - 190 - 310
+South Alabama-38-Georgia State-17   - 522 - 345
+North Texas-42-Tulsa-10   - 550 - 236
+Tulane-13-Rice-17   - 123 - 304
+BYU-28-Nevada-23   - 492 - 363
+Alabama-28-Auburn-34   - 495 - 393
+Baylor-41-TCU-38   - 370 - 410
+Penn State-31-Wisconsin-24   - 465 - 459
+Georgia-41-Georgia Tech-34   - 437 - 495
+Purdue-36-Indiana-56   - 516 - 692
+Idaho-16-New Mexico State-24   - 459 - 371
+Boston College-31-Syracuse-34   - 359 - 480
+Virginia Tech-16-Virginia-6   - 364 - 285
+Northwestern-37-Illinois-34   - 560 - 492
+Louisiana Tech-10-UTSA-30   - 193 - 475
+UTEP-17-Middle Tennessee State-48   - 299 - 629
+Arkansas State-31-Western Kentucky-34   - 357 - 406
+Iowa State-52-West Virginia-44   - 575 - 568
+Clemson-17-South Carolina-31   - 352 - 318
+Notre Dame-20-Stanford-27   - 263 - 419
+Tennessee-27-Kentucky-14   - 417 - 393
+Louisiana Monroe-31-Louisiana Lafayette-28   - 394 - 471
+Texas A&M-21-Missouri-28   - 379 - 463
+UCLA-35-USC-14   - 396 - 314
+Arizona-21-Arizona State-58   - 424 - 478
+New Mexico-17-Boise State-45   - 362 - 432
+San Diego State-19-UNLV-45   - 327 - 401
+Army-42-Hawaii-49   - 406 - 608
+Louisville-31-Cincinnati-24   - 432 - 428
+Bowling Green-47-Northern Illinois-27   - 574 - 454
+Oklahoma-33-Oklahoma State-24   - 358 - 400
+Central Florida-17-SMU-13   - 338 - 313
+Marshall-24-Rice-41   - 371 - 487
+Memphis-10-Connecticut-45   - 257 - 538
+Texas-10-Baylor-30   - 217 - 508
+Missouri-42-Auburn-59   - 534 - 677
+South Florida-6-Rutgers-31   - 151 - 355
+Stanford-38-Arizona State-14   - 517 - 311
+Duke-7-Florida State-45   - 239 - 569
+Louisiana Lafayette-8-South Alabama-30   - 212 - 363
+Ohio State-24-Michigan State-34   - 374 - 438
+Utah State-17-Fresno State-24   - 304 - 460
+Army-7-Navy-34   - 207 - 353
+Washington State-45-Colorado State-48   - 400 - 595
+Fresno State-20-USC-45   - 253 - 499
+Buffalo-24-San Diego State-49   - 309 - 460
+Tulane-21-Louisiana Lafayette-24   - 388 - 325
+Ohio-20-East Carolina-37   - 435 - 568
+Boise State-23-Oregon State-38   - 538 - 454
+Pittsburgh-30-Bowling Green-27   - 487 - 289
+Utah State-21-Northern Illinois-14   - 289 - 315
+Marshall-31-Maryland-20   - 475 - 391
+Syracuse-21-Minnesota-17   - 396 - 350
+BYU-16-Washington-31   - 473 - 319
+Rutgers-16-Notre Dame-29   - 236 - 494
+Cincinnati-17-North Carolina-39   - 349 - 345
+Miami(FL)-9-Louisville-36   - 174 - 554
+Michigan-14-Kansas State-31   - 261 - 420
+Middle Tennessee State-6-Navy-24   - 309 - 385
+Ole Miss-25-Georgia Tech-17   - 477 - 298
+Oregon-30-Texas-7   - 469 - 236
+Arizona State-23-Texas Tech-37   - 412 - 484
+Arizona-42-Boston College-19   - 529 - 351
+Virginia Tech-12-UCLA-42   - 319 - 452
+Rice-7-Mississippi State-44   - 145 - 533
+Duke-48-Texas A&M-52   - 661 - 541
+Nebraska-24-Georgia-19   - 307 - 416
+UNLV-14-North Texas-36   - 262 - 397
+Wisconsin-24-South Carolina-34   - 410 - 438
+Iowa-14-LSU-21   - 233 - 302
+Stanford-20-Michigan State-24   - 305 - 397
+Central Florida-52-Baylor-42   - 556 - 550
+Oklahoma-45-Alabama-31   - 429 - 516
+Oklahoma State-31-Missouri-41   - 548 - 462
+Clemson-40-Ohio State-35   - 576 - 427
+Vanderbilt-41-Houston-24   - 365 - 384
+Arkansas State-23-Ball State-20   - 331 - 363
+Florida State-34-Auburn-31   - 385 - 449

@@ -1,0 +1,47 @@
+UTEP - Rice
+Air Force - San Diego State
+San Jose State - Utah State
+South Alabama - South Carolina
+Rutgers - Michigan State
+Minnesota - Nebraska
+Indiana - Ohio State
+Kansas - Oklahoma
+Northwestern - Purdue
+Penn State - Illinois
+Marshall - UAB
+UTSA - Western Kentucky
+Tulsa - Houston
+SMU - Central Florida
+Virginia Tech - Wake Forest
+Western Michigan - Central Michigan
+Louisiana Tech - Old Dominion
+Washington State - Arizona State
+New Mexico - Colorado State
+Eastern Michigan - Ball State
+Appalachian State - Louisiana Lafayette
+Maryland - Michigan
+Syracuse - Pittsburgh
+Tulane - East Carolina
+Boston College - Florida State
+Wisconsin - Iowa
+Texas Tech - Iowa State
+Ole Miss - Arkansas
+Louisville - Notre Dame
+Florida International - North Texas
+Arizona - Utah
+Georgia State - Clemson
+Stanford - California
+South Florida - Memphis
+Louisiana Monroe - New Mexico State
+Colorado - Oregon
+Miami(FL) - Virginia
+Florida Atlantic - Middle Tennessee State
+Missouri - Tennessee
+Vanderbilt - Mississippi State
+Oklahoma State - Baylor
+Cincinnati - Connecticut
+USC - UCLA
+Boise State - Wyoming
+Oregon State - Washington
+Fresno State - Nevada
+UNLV - Hawaii
