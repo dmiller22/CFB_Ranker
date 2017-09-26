@@ -9,7 +9,7 @@ namespace CFBPredictor.Service
 {
     public static class ScoreAdder
     {
-        private static string scoresPath = "C:/Users/Danny/GitHub/CollegeFootballRanker/CFBpredictor/scores/";
+        private const string SCORES_PATH = "C:/Users/Danny/GitHub/CFB_Ranker/CFBPredictor/scores/";
 
         /// <summary>
         /// Adds scores posted on the internet to a text file
@@ -34,7 +34,7 @@ namespace CFBPredictor.Service
             string[] teams;
             List<string> games = new List<string>();
 
-            StreamReader sr = new StreamReader(scoresPath + "collegefootballscores2017.txt");
+            StreamReader sr = new StreamReader(SCORES_PATH + "collegefootballscores2017.txt");
             using (sr)
             {
                 while (!sr.EndOfStream)
@@ -273,7 +273,7 @@ namespace CFBPredictor.Service
             //end fcs code
 
             //write to file here
-            StreamWriter sw = new StreamWriter(scoresPath + "collegefootballscores2017.txt");
+            StreamWriter sw = new StreamWriter(SCORES_PATH + "collegefootballscores2017.txt");
             using (sw)
             {
                 foreach (string s in games)
